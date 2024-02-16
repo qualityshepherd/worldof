@@ -47,7 +47,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
   </image>
   <itunes:author>${pod.author}</itunes:author>
   <itunes:explicit>${pod.explicit}</itunes:explicit>
-  <itunes:category text="Games" />
+  <itunes:category text="Leisure"><itunes:category text="Games" /></itunes:category>
   <itunes:owner>
     <itunes:name>brine</itunes:name>
     <itunes:email>${pod.email}</itunes:email>
