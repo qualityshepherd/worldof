@@ -6,7 +6,7 @@ const pod = {
   title: config.splog.title,
   link: config.splog.url,
   description: config.splog.description,
-  image: `${config.splog.url}/assets/images/brine_wide.png`,
+  image: `${config.splog.url}/assets/images/brine_square.jpg`,
   author: 'brine',
   explicit: 'true',
   email: 'me@brine.dev',
