@@ -3,6 +3,7 @@ title: S1E8 Is That a Musket In Your Pocket?
 date: 2020-5-3
 tags: podcast, season1, wodu
 description: The Toucan crew is back on the board with Santo but but make an emergency landing. Not for more beer (though :thinking:) but because of a storm. They build a fire right by an Owl Bear nest and McMuffin realizes _he has a musket_ and he's not afraid to use it!
+image: https://worldof.brine.dev/assets/images/season1/image.png
 ---
 
 ![thumb](assets/images/season1/image.png)The Toucan crew is back on the board with Santo but but make an emergency landing. Not for more beer (though :thinking:) but because of a storm. They build a fire right by an Owl Bear nest and McMuffin realizes _he has a musket_ and he's not afraid to use it!

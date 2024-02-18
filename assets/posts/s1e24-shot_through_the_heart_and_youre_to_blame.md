@@ -3,6 +3,7 @@ title: S1E24 Shot Through The Heart And You're To Blame
 date: 2020-12-13
 tags: podcast, season1, bnb
 description: **THE SEASON 1 FINALE IS HERE!** `No spoilers` but Death returns... good luck, crew!
+image: https://worldof.brine.dev/assets/images/season1/image.png
 ---
 
 ![thumb](assets/images/season1/image.png)**THE SEASON 1 FINALE IS HERE!** `No spoilers` but Death returns... good luck, crew!

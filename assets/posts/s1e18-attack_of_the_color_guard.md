@@ -3,6 +3,7 @@ title: S1E18 Attack of the Color Guard
 date: 2020-10-11
 tags: podcast, season1, wodu
 description: "This color guard has teeth! The Crew face off with _Louie Bluie_ and his colorful friends... honestly the cat statue may have given them more of a problem"
+image: https://worldof.brine.dev/assets/images/season1/image.png
 ---
 
 ![thumb](assets/images/season1/image.png)**This color guard has teeth!** The Crew face off with _Louie Bluie_ and his colorful friends... _honestly the cat statue may have given them more of a problem_ 🤔

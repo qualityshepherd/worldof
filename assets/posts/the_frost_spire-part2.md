@@ -4,7 +4,7 @@ date: 2022-5-29
 image: https://brine.dev/assets/images/frost_spire.png
 tags: podcast, oneshot, 1420
 description: Oh no! He's hot! A frozen sea is no place for a himbo... I mean, if there is nobody around to gaze lovingly into the eyes; strong jawline and moonstruck mustache of a handsome man... is he really handsome? Oh, and there's some wolves or something... whatever. Now MOVE! You're blocking his moonlight.
-image: https://worldof.brine.dev/assets/images/frost_spire.png
+image: https://worldof.brine.dev/assets/images/frost_spire/image.png
 ---
 
 ![thumb](assets/images/frost_spire/image.png)**Oh no! He's hot!**

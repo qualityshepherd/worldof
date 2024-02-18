@@ -3,6 +3,7 @@ title: S1E16 Chillin' with the Tanpire
 date: 2020-8-30
 tags: podcast, season1, wodu
 description: Our heroes navigate the mirror plane back to Malik Maxwell's (aka _The Tanpire). They rest up; have some funky dreams; do a little snooping; ask _all_ the questions; and formulate a plan!
+image: https://worldof.brine.dev/assets/images/season1/image.png
 ---
 
 ![thumb](assets/images/season1/image.png)Our heroes navigate the mirror plane back to Malik Maxwell's (aka _The Tanpire). They rest up; have some funky dreams; do a little snooping; ask _all_ the questions; and formulate a plan!

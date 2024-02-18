@@ -3,6 +3,7 @@ title: S1E11 Malik Maxwell
 date: 2020-6-14
 tags: podcast, season1, wodu
 description: The crew visit the home of Malik Maxwell; noted, local business man and borrower of magic books and expensive booze collector. And they tell him _every. thing.
+image: https://worldof.brine.dev/assets/images/season1/image.png
 ---
 
 ![thumb](assets/images/season1/image.png)The crew visit the home of Malik Maxwell: noted, local business man and borrower of magic books and expensive booze collector. And they tell him _every. thing._.

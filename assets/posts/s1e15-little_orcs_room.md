@@ -3,6 +3,7 @@ title: S1E15 Little Orc's Room
 date: 2020-8-16
 tags: podcast, season1, wodu
 description: Gorath visits the _little orc's room_ and then he crew travels through the mirror plane, looking for Malik's house. They meet some shiny ravens...
+image: https://worldof.brine.dev/assets/images/season1/image.png
 ---
 
 ![thumb](assets/images/season1/image.png)Gorath visits the _little orc's room_ and then he crew travels through the mirror plane, looking for Malik's house. They meet some shiny ravens...

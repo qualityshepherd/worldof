@@ -3,6 +3,7 @@ title: S1E19 Closet Full of Skeletons
 date: 2020-10-18
 tags: podcast, season1, wodu
 description: We all have skeletons in our closets...
+image: https://worldof.brine.dev/assets/images/season1/image.png
 ---
 
 ![thumb](assets/images/season1/image.png)We all have skeletons in our closets...

@@ -3,6 +3,7 @@ title: S1E21 Let Sleeping Salt Circles Lie
 date: 2020-11-15
 tags: podcast, season1, wodu
 description: Gorath and Yulia walk into a mirror... but are instead whisked away by a rift in time. They meet a nice man inside a salt circle... nothing to see here.
+image: https://worldof.brine.dev/assets/images/season1/image.png
 ---
 
 ![thumb](assets/images/season1/image.png)Gorath and Yulia walk into a mirror... but are instead whisked away by a rift in time. They meet a nice man inside a salt circle... nothing to see here.

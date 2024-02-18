@@ -3,6 +3,7 @@ title: S1E20 Burning Down the House
 date: 2020-11-1
 tags: podcast, season1, wodu
 description: Watch out, you might get what you're after; cool Birdy, that lighter's getting lighter; this voodoo... looks a lot like me
+image: https://worldof.brine.dev/assets/images/season1/image.png
 ---
 
 ![thumb](assets/images/season1/image.png)Watch out, you might get what you're after<br>

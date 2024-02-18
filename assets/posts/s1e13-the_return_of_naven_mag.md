@@ -3,6 +3,7 @@ title: S1E13 The Return of Naven Mag
 date: 2020-8-2
 tags: podcast, season1, wodu
 description: Naven Mag returns! The crew find themselves back in _The Time Wizard's_ tower. More delicious tea; more _complicated_. They also fine out that _they can mirrorwalk_!
+image: https://worldof.brine.dev/assets/images/season1/image.png
 ---
 
 ![thumb](assets/images/season1/image.png)Naven Mag returns! The crew find themselves back in _The Time Wizard's_ tower. More delicious tea; more _complicated_. They also fine out that _they can mirrorwalk_!

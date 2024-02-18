@@ -3,7 +3,7 @@ title: S0E2 Tower of the Time Wizard
 date: 2020-1-26
 tags: podcast, tower_of_the_time_wizard, season0, wodu
 description: The players make it to the 2nd floor of the tower and...
-image: https://worldof.brine.dev/assets/images/season0_thumb.jpg
+image: https://worldof.brine.dev/assets/images/season0/image.jpg
 ---
 
 ![thumb](assets/images/season0/image.jpg)The players make it to the 2nd floor of the tower and **[SPOILER]** _go ham_ on... well... the A-Team and make delicious _slumgullion_.

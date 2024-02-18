@@ -3,6 +3,7 @@ title: S1E6 A Debt for the Dead - Part 1
 date: 2020-4-19
 tags: podcast, season1, wodu
 description: The crew fly through a stitch in time and find themselves... well... dead. We are also introduced to _Breakfast Donuts_!
+image: https://worldof.brine.dev/assets/images/season1/image.png
 ---
 
 ![thumb](assets/images/season1/image.png)The crew fly through a stitch in time and find themselves... well... dead... _again_. We are also introduced to delicious _Breakfast Donuts_!

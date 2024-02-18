@@ -4,7 +4,7 @@ date: 2022-6-5
 image: https://brine.dev/assets/images/frost_spire.png
 tags: podcast, oneshot, 1420
 description: While ascending the Frost Spire, the crew come upon a ~~roadblock~~ knight in non-shining armor. As Wrath would tell you, returning from the dead is easy compared to climbing an ice tower in full plate. But the crew ties a rope around him and schleps him along (lest be stuck waiting for his slow-ass). Revenants--come to find out--like throwing rocks and hitting things... who knew :shrug:
-image: https://worldof.brine.dev/assets/images/frost_spire.png
+image: https://worldof.brine.dev/assets/images/frost_spire/image.png
 ---
 
 ![thumb](assets/images/frost_spire/image.png)**I PUNCH IT!**

@@ -28,7 +28,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/s0e2-tower_of_the_time_wizard/s0e1-tower_of_the_time_wizard.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 19 Jan 2020 07:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=s0e1-tower_of_the_time_wizard</guid>
-    <itunes:image href="https://worldof.brine.dev/assets/images/season0_thumb.jpg" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/season0/image.jpg" />
  </item>
   <item>
     <title>S0E2 Tower of the Time Wizard</title>
@@ -37,7 +37,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/s0e2-tower_of_the_time_wizard/s0e2-tower_of_the_time_wizard.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 26 Jan 2020 07:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=s0e2-tower_of_the_time_wizard</guid>
-    <itunes:image href="https://worldof.brine.dev/assets/images/season0_thumb.jpg" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/season0/image.jpg" />
  </item>
   <item>
     <title>S0E3 Tower of the Time Wizard</title>
@@ -46,7 +46,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/s0e2-tower_of_the_time_wizard/s0e3-tower_of_the_time_wizard.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 09 Feb 2020 07:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=s0e3-tower_of_the_time_wizard</guid>
-    <itunes:image href="https://worldof.brine.dev/assets/images/season0_thumb.jpg" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/season0/image.jpg" />
  </item>
   <item>
     <title>S0E4 Tower of the Time Wizard</title>
@@ -55,7 +55,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/s0e2-tower_of_the_time_wizard/s0e4-tower_of_the_time_wizard.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 23 Feb 2020 07:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=s0e4-tower_of_the_time_wizard</guid>
-    <itunes:image href="https://worldof.brine.dev/assets/images/season0_thumb.jpg" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/season0/image.jpg" />
  </item>
   <item>
     <title>S1E1 A Balloon for Gorath</title>
@@ -64,7 +64,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e1-a_balloon_for_gorath.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 08 Mar 2020 07:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=s1e1-a_balloon_for_gorath</guid>
-    <itunes:image href="https://worldof.brine.dev/assets/images/brine_square.jpg" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
  </item>
   <item>
     <title>S1E10 Sister Malora - Lady of Light High Priestess</title>
@@ -73,7 +73,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e10-sister_malora-lady_of_light_high_priestess.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 24 May 2020 06:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=s1e10-sister_malora-lady_of_light_high_priestess</guid>
-    <itunes:image href="https://worldof.brine.dev/assets/images/brine_square.jpg" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
  </item>
   <item>
     <title>S1E11 Malik Maxwell</title>
@@ -82,7 +82,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e11-malik_maxwell.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 14 Jun 2020 06:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=s1e11-malik_maxwell</guid>
-    <itunes:image href="https://worldof.brine.dev/assets/images/brine_square.jpg" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
  </item>
   <item>
     <title>S1E12 Black Dog</title>
@@ -91,7 +91,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e12-black_dog.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 26 Jul 2020 06:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=s1e12-black_dog</guid>
-    <itunes:image href="https://worldof.brine.dev/assets/images/brine_square.jpg" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
  </item>
   <item>
     <title>S1E13 The Return of Naven Mag</title>
@@ -100,7 +100,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e13-the_return_of_naven_mag.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 02 Aug 2020 06:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=s1e13-the_return_of_naven_mag</guid>
-    <itunes:image href="https://worldof.brine.dev/assets/images/brine_square.jpg" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
  </item>
   <item>
     <title>S1E14 The Mirror Plane</title>
@@ -109,7 +109,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e14-the_mirror_plane.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 09 Aug 2020 06:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=s1e14-the_mirror_plane</guid>
-    <itunes:image href="https://worldof.brine.dev/assets/images/brine_square.jpg" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
  </item>
   <item>
     <title>S1E15 Little Orc's Room</title>
@@ -118,7 +118,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e15-little_orcs_room.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 16 Aug 2020 06:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=s1e15-little_orcs_room</guid>
-    <itunes:image href="https://worldof.brine.dev/assets/images/brine_square.jpg" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
  </item>
   <item>
     <title>S1E16 Chillin' with the Tanpire</title>
@@ -127,7 +127,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e16-chillin_with_the_tanpire.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 30 Aug 2020 06:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=s1e16-chillin_with_the_tanpire</guid>
-    <itunes:image href="https://worldof.brine.dev/assets/images/brine_square.jpg" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
  </item>
   <item>
     <title>S1E17 Never Trust a Cat Statue</title>
@@ -136,7 +136,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e17-never_trust_a_cat_statue.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 04 Oct 2020 06:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=s1e17-never_trust_a_cat_statue</guid>
-    <itunes:image href="https://worldof.brine.dev/assets/images/brine_square.jpg" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
  </item>
   <item>
     <title>S1E18 Attack of the Color Guard</title>
@@ -145,7 +145,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e18-attack_of_the_color_guard.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 11 Oct 2020 00:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=s1e18-attack_of_the_color_guard</guid>
-    <itunes:image href="https://worldof.brine.dev/assets/images/brine_square.jpg" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
  </item>
   <item>
     <title>S1E19 Closet Full of Skeletons</title>
@@ -154,7 +154,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e19-closet_full_of_skeletons.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 18 Oct 2020 00:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=s1e19-closet_full_of_skeletons</guid>
-    <itunes:image href="https://worldof.brine.dev/assets/images/brine_square.jpg" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
  </item>
   <item>
     <title>S1E2 Hissy Fit</title>
@@ -163,7 +163,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e2-hissy_fit.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 15 Mar 2020 06:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=s1e2-hissy-fit</guid>
-    <itunes:image href="https://worldof.brine.dev/assets/images/brine_square.jpg" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
  </item>
   <item>
     <title>S1E20 Burning Down the House</title>
@@ -172,7 +172,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e19-closet_full_of_skeletons.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 01 Nov 2020 06:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=s1e20-burning_down_the_house</guid>
-    <itunes:image href="https://worldof.brine.dev/assets/images/brine_square.jpg" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
  </item>
   <item>
     <title>S1E21 Let Sleeping Salt Circles Lie</title>
@@ -181,7 +181,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e21-let_sleeping_salt_circles_lie.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 15 Nov 2020 00:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=s1e21-let_sleeping_salt_circles_lie</guid>
-    <itunes:image href="https://worldof.brine.dev/assets/images/brine_square.jpg" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
  </item>
   <item>
     <title>S1E22 Meddling Kids</title>
@@ -190,7 +190,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e22-meddling_kids.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 22 Nov 2020 00:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=s1e22-meddling-kids</guid>
-    <itunes:image href="https://worldof.brine.dev/assets/images/brine_square.jpg" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
  </item>
   <item>
     <title>S1E23 Eat Your Heart Out</title>
@@ -199,7 +199,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e23-eat_your_heart_out.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 06 Dec 2020 07:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=s1e23-eat_your_heart_out</guid>
-    <itunes:image href="https://worldof.brine.dev/assets/images/brine_square.jpg" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
  </item>
   <item>
     <title>S1E24 Shot Through The Heart And You're To Blame</title>
@@ -208,7 +208,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e24-shot_through_the_heart_and_youre_to_blame.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 13 Dec 2020 00:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=s1e24-shot_through_the_heart_and_youre_to_blame</guid>
-    <itunes:image href="https://worldof.brine.dev/assets/images/brine_square.jpg" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
  </item>
   <item>
     <title>S1E5 Death and McMuffin</title>
@@ -217,7 +217,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e5-death_and_mcmuffin.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 12 Apr 2020 06:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=s1e5-death_and_mcmuffin</guid>
-    <itunes:image href="https://worldof.brine.dev/assets/images/brine_square.jpg" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
  </item>
   <item>
     <title>S1E6 A Debt for the Dead - Part 1</title>
@@ -226,7 +226,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e6-a_debt_for_the_dead-part_1.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 19 Apr 2020 06:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=s1e6-a_debt_for_the_dead_part_1</guid>
-    <itunes:image href="https://worldof.brine.dev/assets/images/brine_square.jpg" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
  </item>
   <item>
     <title>S1E8 Is That a Musket In Your Pocket?</title>
@@ -235,7 +235,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e8-is_that_a_musket_in_your_pocket.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 03 May 2020 06:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=s1e8-is_that_a_musket_in_your_pocket</guid>
-    <itunes:image href="https://worldof.brine.dev/assets/images/brine_square.jpg" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
  </item>
   <item>
     <title>S1E9 Cloud City</title>
@@ -244,7 +244,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e9-cloud_city.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 10 May 2020 06:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=s1e9-cloud_city</guid>
-    <itunes:image href="https://worldof.brine.dev/assets/images/brine_square.jpg" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
  </item>
   <item>
     <title>The Frost Spire - Part 1</title>
@@ -253,7 +253,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/the_frost_spire-part3/the_frost_spire-part1.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 22 May 2022 06:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=the_frost_spire-part1</guid>
-    <itunes:image href="https://worldof.brine.dev/assets/images/frost_spire.png" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/frost_spire/image.png" />
  </item>
   <item>
     <title>The Frost Spire - Part 2</title>
@@ -262,7 +262,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/the_frost_spire-part3/the_frost_spire-part2.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 29 May 2022 06:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=the_frost_spire-part2</guid>
-    <itunes:image href="https://worldof.brine.dev/assets/images/frost_spire.png" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/frost_spire/image.png" />
  </item>
   <item>
     <title>The Frost Spire - Part 3</title>
@@ -271,7 +271,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/the_frost_spire-part3/the_frost_spire-part3.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 05 Jun 2022 06:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=the_frost_spire-part3</guid>
-    <itunes:image href="https://worldof.brine.dev/assets/images/frost_spire.png" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/frost_spire/image.png" />
  </item>
   <item>
     <title>The Frost Spire - Part 4</title>
@@ -280,7 +280,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/the_frost_spire-part3/the_frost_spire-part4.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Thu, 09 Jun 2022 06:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=the_frost_spire-part4</guid>
-    <itunes:image href="https://worldof.brine.dev/assets/images/frost_spire.png" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/frost_spire/image.png" />
  </item>
 </channel>
 </rss>
