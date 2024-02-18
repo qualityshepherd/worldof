@@ -4,7 +4,7 @@ const about = {
       <h2>About</h2>
 
       <div class="center">
-        <b>World of Brine</b> is a ttrpg podcast of words and worlds: meandering chats and actual play games. Email your <i>kind</i> questions: <a href="mailto:w&#111;&#114;&#108;do&#102;&#64;&#98;rine&#46;&#100;&#101;&#118;">w&#111;&#114;&#108;do&#102;&#64;&#98;rine&#46;&#100;&#101;&#118;</a>
+        <b>World of Brine</b> is a ttrpg podcast of words and worlds; meandering conversations and actual play games. Email your <i>kind</i> questions: <a href="mailto:w&#111;&#114;&#108;do&#102;&#64;&#98;rine&#46;&#100;&#101;&#118;">w&#111;&#114;&#108;do&#102;&#64;&#98;rine&#46;&#100;&#101;&#118;</a>
 
         <p>Listen to the pod on your player of choice...
         <div class="social">
