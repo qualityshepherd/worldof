@@ -3,9 +3,10 @@ title: S0E4 Tower of the Time Wizard
 date: 2020-2-23
 tags: podcast, tower_of_the_time_wizard, season0, wodu
 description: Today on GorathCast...
+image: https://worldof.brine.dev/assets/images/season0_thumb.jpg
 ---
 
-![thumb](assets/images/season0_thumb.jpg)Today on GorathCast...
+![thumb](assets/images/season0/image.jpg)Today on GorathCast...
 
 Season 0 ends with the party selling some loot and makes the transition to... _season 1_!
 

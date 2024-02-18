@@ -5,7 +5,7 @@ tags: podcast, season1, wodu
 description: Watch out, you might get what you're after; cool Birdy, that lighter's getting lighter; this voodoo... looks a lot like me
 ---
 
-![thumb](assets/images/season1_thumb.png)Watch out, you might get what you're after<br>
+![thumb](assets/images/season1/image.png)Watch out, you might get what you're after<br>
 cool Birdy, that lighter's getting lighter<br>
 this voodoo... looks a lot like me<br>
 burning down the house

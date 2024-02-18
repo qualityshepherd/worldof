@@ -1,5 +1,5 @@
 To make a thumbnail:
 1. copy the image
-2. run `sips -Z 150 my_image.png`
+2. run `sips -Z 420 image.png --out thumb.png`
 
-This will keep the ratios and overwrite the file
+Without --out it will overwrite the existing image

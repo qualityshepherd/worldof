@@ -5,7 +5,7 @@ tags: podcast, season1, wodu
 description: Malik and the crew take on a **Black Dog**... then go for a swim in the **Infinity Fountain**.
 ---
 
-![thumb](assets/images/season1_thumb.png)Malik and the crew take on a **Black Dog**... then go for a swim in the **Infinity Fountain**.
+![thumb](assets/images/season1/image.png)Malik and the crew take on a **Black Dog**... then go for a swim in the **Infinity Fountain**.
 
 **World of Brine** is an _actual play_, rpg, podcast, using the [World of Dungeons (WoDu)](http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf) ruleset.
 

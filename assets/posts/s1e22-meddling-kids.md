@@ -5,7 +5,7 @@ tags: podcast, season1, bnb
 description: The Scooby crew break into **The Temple of the Lady of Light**. McMuffin concocts a _cunning plan_ to dress up as delivery men, while Yulia battles an evil broom closet!
 ---
 
-![thumb](assets/images/season1_thumb.png)The Scooby crew break into **The Temple of the Lady of Light**. McMuffin concocts a _cunning plan_ to dress up as delivery men, while Yulia battles an evil broom closet!
+![thumb](assets/images/season1/image.png)The Scooby crew break into **The Temple of the Lady of Light**. McMuffin concocts a _cunning plan_ to dress up as delivery men, while Yulia battles an evil broom closet!
 
 _Sidebar: we tweaked the audio in this episode... should be a bit better :shrug:_
 

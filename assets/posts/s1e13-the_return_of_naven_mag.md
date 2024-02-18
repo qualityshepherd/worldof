@@ -5,7 +5,7 @@ tags: podcast, season1, wodu
 description: Naven Mag returns! The crew find themselves back in _The Time Wizard's_ tower. More delicious tea; more _complicated_. They also fine out that _they can mirrorwalk_!
 ---
 
-![thumb](assets/images/season1_thumb.png)Naven Mag returns! The crew find themselves back in _The Time Wizard's_ tower. More delicious tea; more _complicated_. They also fine out that _they can mirrorwalk_!
+![thumb](assets/images/season1/image.png)Naven Mag returns! The crew find themselves back in _The Time Wizard's_ tower. More delicious tea; more _complicated_. They also fine out that _they can mirrorwalk_!
 
 **World of Brine** is an _actual play_, rpg, podcast, using the [World of Dungeons (WoDu)](http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf) ruleset.
 

@@ -5,7 +5,7 @@ tags: podcast, season1, wodu
 description: The Toucan crew is back on the board with Santo but but make an emergency landing. Not for more beer (though :thinking:) but because of a storm. They build a fire right by an Owl Bear nest and McMuffin realizes _he has a musket_ and he's not afraid to use it!
 ---
 
-![thumb](assets/images/season1_thumb.png)The Toucan crew is back on the board with Santo but but make an emergency landing. Not for more beer (though :thinking:) but because of a storm. They build a fire right by an Owl Bear nest and McMuffin realizes _he has a musket_ and he's not afraid to use it!
+![thumb](assets/images/season1/image.png)The Toucan crew is back on the board with Santo but but make an emergency landing. Not for more beer (though :thinking:) but because of a storm. They build a fire right by an Owl Bear nest and McMuffin realizes _he has a musket_ and he's not afraid to use it!
 
 **World of Brine** is an _actual play_,
 rpg, podcast, using the [World of Dungeons (WoDu)](http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf) ruleset.

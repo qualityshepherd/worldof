@@ -5,7 +5,7 @@ tags: podcast, season1, wodu
 description: The crew travel by balloon to McMufin's home town of ~~Hissy Fit~~ **Hsifilet**.
 ---
 
-![thumb](assets/images/season1_thumb.png)The crew travel by balloon to McMufin's home town of ~Hissy Fit~ **Hsifilet**.
+![thumb](assets/images/season1/image.png)The crew travel by balloon to McMufin's home town of ~Hissy Fit~ **Hsifilet**.
 
 **World of Brine** is an _actual play_, rpg, podcast, using the [World of Dungeons (WoDu)](http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf) ruleset.
 

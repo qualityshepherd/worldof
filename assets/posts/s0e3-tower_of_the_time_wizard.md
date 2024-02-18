@@ -3,9 +3,10 @@ title: S0E3 Tower of the Time Wizard
 date: 2020-2-9
 tags: podcast, tower_of_the_time_wizard, season0, wodu
 description: Death becomes us! The 3rd floor puzzles the party and the 4th... well... it's complected.
+image: https://worldof.brine.dev/assets/images/season0_thumb.jpg
 ---
 
-![thumb](assets/images/season0_thumb.jpg)Death becomes us! The 3rd floor puzzles the party and the 4th... well... it's complected.
+![thumb](assets/images/season0/image.jpg)Death becomes us! The 3rd floor puzzles the party and the 4th... well... it's complected.
 
 <break>
 

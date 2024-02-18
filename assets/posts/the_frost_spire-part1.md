@@ -4,9 +4,10 @@ date: 2022-5-22
 image: https://brine.dev/assets/images/frost_spire.png
 tags: podcast, oneshot, 1420
 description: The Arson Crew find themselves in the middle of an old fey tale. "The Ice Prince" is legend. A prince lives who travels the seas in a castle of ice; his wives feasting on children who misbehave.
+image: https://worldof.brine.dev/assets/images/frost_spire.png
 ---
 
-![thumb](assets/images/frost_spire.png)The Arson Crew™ find themselves in the middle of an old fey tale. "The Ice Prince" is legend. A prince lives who travels the seas in a castle of ice; his wives feasting on children who misbehave.
+![thumb](assets/images/frost_spire/image.png)The Arson Crew™ find themselves in the middle of an old fey tale. "The Ice Prince" is legend. A prince lives who travels the seas in a castle of ice; his wives feasting on children who misbehave.
 
 **The Frost Spire**
 

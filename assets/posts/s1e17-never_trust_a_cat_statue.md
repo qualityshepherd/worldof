@@ -5,7 +5,7 @@ tags: podcast, season1, wodu
 description: The crew execute their _cunning plan_ and snoop around the **The Temple of the Lady of Light**. And they would have gotten away with it too _if it wasn't for that pesky cat statue_.
 ---
 
-![thumb](assets/images/season1_thumb.png)The crew execute their _cunning plan_ and snoop around the **The Temple of the Lady of Light**. And they would have gotten away with it too _if it wasn't for that pesky cat statue_.
+![thumb](assets/images/season1/image.png)The crew execute their _cunning plan_ and snoop around the **The Temple of the Lady of Light**. And they would have gotten away with it too _if it wasn't for that pesky cat statue_.
 
 **World of Brine** is an _actual play_, rpg, podcast, using the [World of Dungeons (WoDu)](http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf) ruleset.
 

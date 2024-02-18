@@ -5,7 +5,7 @@ tags: podcast, season1, bnb
 description: **THE SEASON 1 FINALE IS HERE!** `No spoilers` but Death returns... good luck, crew!
 ---
 
-![thumb](assets/images/season1_thumb.png)**THE SEASON 1 FINALE IS HERE!** `No spoilers` but Death returns... good luck, crew!
+![thumb](assets/images/season1/image.png)**THE SEASON 1 FINALE IS HERE!** `No spoilers` but Death returns... good luck, crew!
 
 **World of Brine** is an _actual play_, rpg, podcast, using the [World of Dungeons (WoDu)](http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf) ruleset.
 

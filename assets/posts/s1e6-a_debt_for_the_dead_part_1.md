@@ -5,7 +5,7 @@ tags: podcast, season1, wodu
 description: The crew fly through a stitch in time and find themselves... well... dead. We are also introduced to _Breakfast Donuts_!
 ---
 
-![thumb](assets/images/season1_thumb.png)The crew fly through a stitch in time and find themselves... well... dead... _again_. We are also introduced to delicious _Breakfast Donuts_!
+![thumb](assets/images/season1/image.png)The crew fly through a stitch in time and find themselves... well... dead... _again_. We are also introduced to delicious _Breakfast Donuts_!
 
 This is a one-ish shot that I wrote for the [2020 One Page Dungeon Contest](https://www.dungeoncontest.com/opdc-2020) and slipped it into our campaign (so sneaky). It's called [a Debt for the Dead](https://brine.dev/#post?s=one_page_dungeon_contest). It turned out to be a ton of fun, and _marked_ the entire campaign FOREVAH! Looking at it today, I can see why it wasn't well received by the judges :) I really hate doing _print work_ and it shows. Still... fun stuff!
 

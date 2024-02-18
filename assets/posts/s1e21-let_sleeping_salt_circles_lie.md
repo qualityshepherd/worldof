@@ -5,7 +5,7 @@ tags: podcast, season1, wodu
 description: Gorath and Yulia walk into a mirror... but are instead whisked away by a rift in time. They meet a nice man inside a salt circle... nothing to see here.
 ---
 
-![thumb](assets/images/season1_thumb.png)Gorath and Yulia walk into a mirror... but are instead whisked away by a rift in time. They meet a nice man inside a salt circle... nothing to see here.
+![thumb](assets/images/season1/image.png)Gorath and Yulia walk into a mirror... but are instead whisked away by a rift in time. They meet a nice man inside a salt circle... nothing to see here.
 
 This episode was part side quest; part DLT (McMuffin's aunt) origin story; and part one-shot via [LotFP's Tower of the Stargazer](http://www.lotfp.com/RPG/products/tower-of-the-stargazer).
 

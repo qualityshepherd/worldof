@@ -28,7 +28,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/s0e2-tower_of_the_time_wizard/s0e1-tower_of_the_time_wizard.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 19 Jan 2020 07:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=s0e1-tower_of_the_time_wizard</guid>
-    <itunes:image href="https://worldof.brine.dev/assets/images/brine_square.jpg" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/season0_thumb.jpg" />
  </item>
   <item>
     <title>S0E2 Tower of the Time Wizard</title>
@@ -37,7 +37,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/s0e2-tower_of_the_time_wizard/s0e2-tower_of_the_time_wizard.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 26 Jan 2020 07:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=s0e2-tower_of_the_time_wizard</guid>
-    <itunes:image href="https://worldof.brine.dev/assets/images/brine_square.jpg" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/season0_thumb.jpg" />
  </item>
   <item>
     <title>S0E3 Tower of the Time Wizard</title>
@@ -46,7 +46,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/s0e2-tower_of_the_time_wizard/s0e3-tower_of_the_time_wizard.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 09 Feb 2020 07:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=s0e3-tower_of_the_time_wizard</guid>
-    <itunes:image href="https://worldof.brine.dev/assets/images/brine_square.jpg" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/season0_thumb.jpg" />
  </item>
   <item>
     <title>S0E4 Tower of the Time Wizard</title>
@@ -55,7 +55,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/s0e2-tower_of_the_time_wizard/s0e4-tower_of_the_time_wizard.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 23 Feb 2020 07:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=s0e4-tower_of_the_time_wizard</guid>
-    <itunes:image href="https://worldof.brine.dev/assets/images/brine_square.jpg" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/season0_thumb.jpg" />
  </item>
   <item>
     <title>S1E1 A Balloon for Gorath</title>
@@ -253,7 +253,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/the_frost_spire-part3/the_frost_spire-part1.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 22 May 2022 06:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=the_frost_spire-part1</guid>
-    <itunes:image href="https://brine.dev/assets/images/frost_spire.png" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/frost_spire.png" />
  </item>
   <item>
     <title>The Frost Spire - Part 2</title>
@@ -262,7 +262,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/the_frost_spire-part3/the_frost_spire-part2.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 29 May 2022 06:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=the_frost_spire-part2</guid>
-    <itunes:image href="https://brine.dev/assets/images/frost_spire.png" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/frost_spire.png" />
  </item>
   <item>
     <title>The Frost Spire - Part 3</title>
@@ -271,7 +271,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/the_frost_spire-part3/the_frost_spire-part3.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 05 Jun 2022 06:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=the_frost_spire-part3</guid>
-    <itunes:image href="https://brine.dev/assets/images/frost_spire.png" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/frost_spire.png" />
  </item>
   <item>
     <title>The Frost Spire - Part 4</title>
@@ -280,7 +280,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <enclosure url="https://archive.org/download/the_frost_spire-part3/the_frost_spire-part4.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Thu, 09 Jun 2022 06:00:00 GMT</pubDate>
     <guid>https://worldof.brine.dev/#post?s=the_frost_spire-part4</guid>
-    <itunes:image href="https://brine.dev/assets/images/frost_spire.png" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/frost_spire.png" />
  </item>
 </channel>
 </rss>
