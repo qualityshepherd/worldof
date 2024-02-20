@@ -10,7 +10,7 @@ const about = {
         <div class="social">
           <a href="https://podcasts.apple.com/us/podcast/world-of-brine/id1547081865" title="apple podcasts"><img src="assets/images/social/apple.png" alt="world of brine on apple podcasts"></a>
           <a href="https://open.spotify.com/show/4T6OWe548efPrH6m6ZLrG4" title="spotify"><img src="assets/images/social/spotify.png" alt="world of brine on spotify"></a>
-          <a href="https://www.youtube.com/playlist?list=PLuYK1nk87vUzi0i1sNDdh__HWZ-EczMpj" title="youtube"><img src="assets/images/social/youtube.png" alt="world of brine on youtube"></a>
+          <a href="https://www.youtube.com/playlist?list=PLuYK1nk87vUxh5F5y0nz6g2j9WZrKJLyf" title="youtube"><img src="assets/images/social/youtube.png" alt="world of brine on youtube"></a>
           <a href="/assets/rss/blog.xml"><img src="assets/images/social/rss.png" title="blog rss" alt="blog rss"></a>
         </div>
       </div>
