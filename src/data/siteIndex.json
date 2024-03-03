@@ -1,6 +1,17 @@
 [
   {
     "meta": {
+      "title": "17 Lights, Camera, Faction",
+      "date": "2024-3-3",
+      "tags": "podcast, lounge",
+      "description": "7th and Sage talk about how they run _Freeform Faction_ games. We also touch on Matrix games, co-GMing, blogging and more...",
+      "slug": "17_lights_camera_faction"
+    },
+    "markdown": "---\ntitle: 17 Lights, Camera, Faction\ndate: 2024-3-3\ntags: podcast, lounge\ndescription: 7th and Sage talk about how they run _Freeform Faction_ games. We also touch on Matrix games, co-GMing, blogging and more...\n---\n\n![thumb](assets/images/lounge/lounge_square2.png)\n\n7th and Sage talk about how they run _Freeform Faction_ games. We also touch on Matrix games, co-GMing, blogging and more...\n\n- [brine](https://brine.dev)\n- [7th Outpost](https://tale-of-rat-and-snake.blogspot.com)\n- [SageDaMage](https://sagedamage.itch.io/)\n\n<audio controls src=\"https://archive.org/download/world_of_brine/world_of_brine-lights_camera_faction.mp3\"></audio>\n",
+    "html": "<p><img src=\"assets/images/lounge/lounge_square2.png\" alt=\"thumb\" /></p>\n<p>7th and Sage talk about how they run <em>Freeform Faction</em> games. We also touch on Matrix games, co-GMing, blogging and more…</p>\n<ul>\n<li><a href=\"https://brine.dev\">brine</a></li>\n<li><a href=\"https://tale-of-rat-and-snake.blogspot.com\">7th Outpost</a></li>\n<li><a href=\"https://sagedamage.itch.io/\">SageDaMage</a></li>\n</ul>\n<audio controls src=\"https://archive.org/download/world_of_brine/world_of_brine-lights_camera_faction.mp3\"></audio>"
+  },
+  {
+    "meta": {
       "title": "S0E1 Tower of the Time Wizard",
       "date": "2020-1-19",
       "tags": "podcast, tower_of_the_time_wizard, season0, wodu",
