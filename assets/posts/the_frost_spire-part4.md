@@ -2,7 +2,7 @@
 title: The Frost Spire - Part 4
 date: 2022-6-9
 image: https://brine.dev/assets/images/frost_spire.png
-tags: podcast, oneshot, 1420
+tags: podcast, 1420
 description: It's PCs vs Polar Bear... my money is on the _bed_. Don't lose your hand!
 image: https://worldof.brine.dev/assets/images/frost_spire/image.png
 ---
