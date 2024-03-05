@@ -31,6 +31,15 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <itunes:image href="https://worldof.brine.dev/assets/images/brine_square.jpg" />
  </item>
   <item>
+    <title>Night City - One Shot</title>
+    <link>https://worldof.brine.dev/#post?s=night_city</link>
+    <description>Amongst the jukebox joints and DJ dives, there are only four lounges left in downtown **Night City** where a  band can get a regular gig. At least, one that will keep the landlord at bay for another month.</description>
+    <enclosure url="https://archive.org/download/wob_20240305/night_city.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Tue, 05 Mar 2024 07:00:00 GMT</pubDate>
+    <guid>https://worldof.brine.dev/#post?s=night_city</guid>
+    <itunes:image href="https://brine.dev/assets/images/frost_spire.png" />
+ </item>
+  <item>
     <title>S0E1 Tower of the Time Wizard</title>
     <link>https://worldof.brine.dev/#post?s=s0e1-tower_of_the_time_wizard</link>
     <description>This was the very first session of what was _supposed to be_ just a oneshot... but would become a full campaign.</description>

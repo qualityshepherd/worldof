@@ -12,6 +12,18 @@
   },
   {
     "meta": {
+      "title": "Night City - One Shot",
+      "date": "2024-3-5",
+      "image": "https://brine.dev/assets/images/frost_spire.png",
+      "tags": "podcast, oneshot, named",
+      "description": "Amongst the jukebox joints and DJ dives, there are only four lounges left in downtown **Night City** where a  band can get a regular gig. At least, one that will keep the landlord at bay for another month.",
+      "slug": "night_city"
+    },
+    "markdown": "---\ntitle: Night City - One Shot\ndate: 2024-3-5\nimage: https://brine.dev/assets/images/frost_spire.png\ntags: podcast, oneshot, named\ndescription: Amongst the jukebox joints and DJ dives, there are only four lounges left in downtown **Night City** where a  band can get a regular gig. At least, one that will keep the landlord at bay for another month.\n\nTension is building in the flea hotels and flophouses where local musicians count their pennies and try to sleep out the days, and the Gracie Mathews’ Experience should be watching their back. To add to the insult, they even stole your old drummer Dennis “the Rat” Rushmore - he was a piece of human flotsom, but he could actually play.\n---\n\n![thumb](assets/images/night_city/night_city_square.png)\n\nan actual play using [Named Toolkit](https://wightbred.itch.io/named)\n\nAmongst the jukebox joints and DJ dives, there are only four lounges left in downtown **Night City** where a  band can get a regular gig. At least, one that will keep the landlord at bay for another month.\n\nTension is building in the flea hotels and flophouses where local musicians count their pennies and try to sleep out the days, and the Gracie Mathews’ Experience should be watching their back. To add to the insult, they even stole your old drummer Dennis “the Rat” Rushmore - he was a piece of human flotsom, but he could actually play.\n\n- **Valerie Weiss** (Yulia): Runaway, Physical, Disappointment\n- **Shakes** (Mechanought): Fanboy, Synth, Blabby\n- **Kai Hames** (brine): Wordsmith, Fork Lift Operator, Talker\n- **Wightbred** - your _friendly_ Game Maestro\n\n<audio controls src=\"https://archive.org/download/wob_20240305/night_city.mp3\"></audio>\n",
+    "html": "<p><img src=\"assets/images/night_city/night_city_square.png\" alt=\"thumb\" /></p>\n<p>an actual play using <a href=\"https://wightbred.itch.io/named\">Named Toolkit</a></p>\n<p>Amongst the jukebox joints and DJ dives, there are only four lounges left in downtown <strong>Night City</strong> where a  band can get a regular gig. At least, one that will keep the landlord at bay for another month.</p>\n<p>Tension is building in the flea hotels and flophouses where local musicians count their pennies and try to sleep out the days, and the Gracie Mathews’ Experience should be watching their back. To add to the insult, they even stole your old drummer Dennis “the Rat” Rushmore - he was a piece of human flotsom, but he could actually play.</p>\n<ul>\n<li><strong>Valerie Weiss</strong> (Yulia): Runaway, Physical, Disappointment</li>\n<li><strong>Shakes</strong> (Mechanought): Fanboy, Synth, Blabby</li>\n<li><strong>Kai Hames</strong> (brine): Wordsmith, Fork Lift Operator, Talker</li>\n<li><strong>Wightbred</strong> - your <em>friendly</em> Game Maestro</li>\n</ul>\n<audio controls src=\"https://archive.org/download/wob_20240305/night_city.mp3\"></audio>"
+  },
+  {
+    "meta": {
       "title": "S0E1 Tower of the Time Wizard",
       "date": "2020-1-19",
       "tags": "podcast, tower_of_the_time_wizard, season0, wodu",
