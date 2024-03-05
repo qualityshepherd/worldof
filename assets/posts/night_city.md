@@ -21,4 +21,6 @@ Tension is building in the flea hotels and flophouses where local musicians coun
 - **Kai Hames** (brine): Wordsmith, Fork Lift Operator, Talker
 - **Wightbred** - your _friendly_ Game Maestro
 
+_The [World of Brine](https://worldof.brine.dev) Podcast is available on all [your favorite podcast apps](https://pod.link/1547081865)_
+
 <audio controls src="https://archive.org/download/wob_20240305/night_city.mp3"></audio>
