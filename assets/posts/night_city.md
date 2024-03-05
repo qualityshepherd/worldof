@@ -1,7 +1,7 @@
 ---
 title: Night City - One Shot
 date: 2024-3-5
-image: https://brine.dev/assets/images/frost_spire.png
+image: https://brine.dev/assets/images/night_city_square.png
 tags: podcast, oneshot, named
 description: Amongst the jukebox joints and DJ dives, there are only four lounges left in downtown **Night City** where a  band can get a regular gig. At least, one that will keep the landlord at bay for another month.
 
