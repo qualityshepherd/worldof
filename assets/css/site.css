@@ -60,7 +60,7 @@
 body {
   margin: 0;
   font-family: "Inter", "Arial";
-  font-size: 1.20rem;
+  font-size: 1.21rem;
   line-height: 150%;
   color: var(--text);
   font-weight: 400;
@@ -89,7 +89,7 @@ nav {
   top: 0;
 }
 
-#hamburger {
+#menu {
   margin-left: 15px;
   margin-top: 15px;
   font-size: 250%;
@@ -104,6 +104,15 @@ nav #links {
   background-color: var(--bg-darker);
   padding: 0 15px 15px 0;
   z-index: 1;
+}
+
+.kofi img {
+  width: 30px;
+  height: auto;
+}
+
+.dim {
+  filter: brightness(75%);
 }
 
 #links a, #links form {
@@ -153,6 +162,20 @@ nav #links {
   text-align: center;
 }
 
+.song {
+  text-align: center;
+  margin:auto;
+  width: 80%;
+}
+
+/* any child divs of .song */
+.song > div {
+  text-align: left;
+  white-space: pre;
+  font-style: italic;
+  display: inline-block;
+}
+
 .small, .date {
   margin: 15px;
   font-size: 90%;
@@ -178,15 +201,29 @@ nav #links {
   border: 1px solid var(--bg-darkest);
 }
 
-#more-posts {
-  margin-bottom: 15px;
+.post-break {
+  margin-top: 10px;
+  text-align: right;
+}
+
+.read-more {
+  display: inline-block;
+  font-weight: bold;
+}
+
+#load-more {
+  display: none;
+  margin: 15px auto;
   font-size: 90%;
-  text-align: center;
   color: var(--bg-darker);
   background-color: var(--alt2);
   padding: 15px;
   border: none;
-  border-radius: 15px
+  border-radius: 15px;
+}
+
+#load-more.show {
+  display: block;
 }
 
 .social img {
@@ -204,9 +241,7 @@ audio {
   width: 100%;
 }
 
-img {
-  margin-top: 15px;
-  margin-bottom: 15px;
+.post img, header img {
   max-width: 100%;
   max-height: 100%;
   height: inherit !important;
@@ -229,12 +264,16 @@ a {
 }
 
 a:hover,
-.post-title:hover, .active {
+.post-title:hover, .active, .archive {
   color: var(--alt3);
 }
 
+table, ul, ol {
+  margin-bottom: 45px;
+  font-size: 90%;
+}
+
 table {
-  padding-bottom: 15px;
   width: 100%;
   border-collapse: collapse;
 }
@@ -249,46 +288,6 @@ th {
 
 th, td {
   padding: 2.5px 5px;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  margin: 0;
-  font-weight: 700;
-  color: #8D8678;
-  line-height: 150%;
-  font-family: var(--header-font);
-}
-
-h2 {
-  font-size: 375%;
-  text-align: center;
-  color: var(--header);
-  margin-bottom: 1.2rem;
-  text-transform: uppercase;
-}
-
-h3, .names {
-  font-size: 200%;
-  color: var(--header);
-  margin-bottom: 15px;
-  margin-top: 60px;
-  text-transform: uppercase;
-  font-family: var(--header-font);
-}
-
-h4 {
-  margin-top: 30px;
-  font-size: 150%;
-  color: var(--header);
-}
-
-h5 {
-  font-size: 120%;
 }
 
 ul {
@@ -328,14 +327,6 @@ blockquote {
   filter: brightness(89%)
 }
 
-img {
-  margin-top: 15px;
-  margin-bottom: 15px;
-  max-width: 100%;
-  max-height: 100%;
-  height: inherit !important;
-}
-
 .featherlight-content {
   background: #cdcbc9;
 }
@@ -355,4 +346,49 @@ img {
   padding: 25px;
   margin-bottom: 50px;
   overflow: auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  font-weight: 700;
+  color: #8D8678;
+  line-height: 150%;
+  font-family: var(--header-font);
+}
+
+h1 {
+  /* just for seo */
+  display: none;
+}
+
+h2 {
+  font-size: 375%;
+  text-align: center;
+  color: var(--header);
+  margin-bottom: 1.2rem;
+  text-transform: uppercase;
+}
+
+h3, .names, .archive {
+  font-size: 200%;
+  color: var(--header);
+  margin-bottom: 15px;
+  margin-top: 60px;
+  text-transform: uppercase;
+  font-family: var(--header-font);
+}
+
+h4 {
+  margin-top: 30px;
+  font-size: 150%;
+  color: var(--header);
+}
+
+h5 {
+  font-size: 120%;
 }
