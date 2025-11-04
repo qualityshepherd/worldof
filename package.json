@@ -1,20 +1,10 @@
 {
-  "name": "World of Brine",
-  "description": "World of Brine is a ttrpg podcast of words and worlds; meandering conversations and actual play games.",
-  "version": "1.0.0",
+  "name": "brine",
+  "version": "2.0.0",
+  "type": "module",
   "author": "brine",
   "license": "MIT",
-  "main": "index.html",
-  "type": "module",
-  "splog": {
-    "title": "World of Brine",
-    "description": "A ttrpg podcast of words and worlds...",
-    "url": "https://worldof.brine.dev",
-    "pathToIndex": "./src/data/siteIndex.json",
-    "pathToPostsFolder": "./assets/posts",
-    "pathToRssFolder": "./assets/rss",
-    "maxPosts": "12"
-  },
+  "main": "app.js",
   "standard": {
     "env": [
       "browser"
@@ -36,9 +26,7 @@
   },
   "devDependencies": {
     "http-server": "^14.1.1",
-    "puppeteer": "^24.28.0",
-    "standard": "^17.1.2",
-    "tape": "^5.9.0"
+    "standard": "^17.1.2"
   },
   "dependencies": {
     "marked": "^16.4.1"
