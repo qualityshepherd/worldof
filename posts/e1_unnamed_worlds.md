@@ -1,5 +1,5 @@
 ---
-title: E1 Unnamed Worlds, Tarot Magic, and Narrative-First Design
+title: E1 Unnamed Worlds, Tarot Magic, and Conversation-First Design
 date: 2025-11-24
 image: https://brine.dev/assets/images/brine_square.jpg
 tags: podcast, wob, named, oyab
