@@ -15,6 +15,7 @@ This is the first episode in a new series of conversations between myself, Wight
 - [Unnamed Worlds](https://wightbred.itch.io/unnamedworlds)
 - [Named Toolkit](https://wightbred.itch.io/named)
 - [Of Yarn and Bone](https://brine.dev/#post?s=of_yarn_and_bone)
+- [Rando](https://rando.brine.dev)
 - [2400](https://jasontocci.itch.io/2400)
 
 <audio controls src="https://archive.org/download/01.unnamed-worlds/01.unnamed_worlds.mp3"></audio>
