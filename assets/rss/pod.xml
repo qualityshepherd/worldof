@@ -21,6 +21,15 @@
   </itunes:owner>
   <atom:link href="https://brine.dev/assets/rss/pod.xml" rel="self" type="application/rss+xml" />
   <item>
+    <title>E1 Unnamed Worlds</title>
+    <link>https://worldof.brine.dev/#post?s=e1_unnamed_worlds</link>
+    <guid isPermaLink="true">https://worldof.brine.dev/#post?s=e1_unnamed_worlds</guid>
+    <description><p>This is the first episode in a new series of conversations between myself, Wightbred and whomever else. We talk about Wightbred's new zine, Unnammed Worlds; the magic system in brine's game Of Yarn and Bone; how we run ttrpg games and a number of other rambling topics.</p><p>0. By the powers vested in me (which are none), I give you permission to do anything, change anything or ignore anything that results in a better game for you and your players. Forever.</p><p>https://worldof.brine.dev</p></description>
+    <enclosure url="https://worldof.brine.dev/https://archive.org/download/01.unnamed-worlds/01.unnamed_worlds.mp3" type="audio/mpeg" length="0" />
+    <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
+    <itunes:image href="https://brine.dev/assets/images/brine_square.jpg" />
+  </item>
+  <item>
     <title>Night City - One Shot</title>
     <link>https://worldof.brine.dev/#post?s=night_city</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=night_city</guid>

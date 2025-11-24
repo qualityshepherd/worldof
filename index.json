@@ -1,6 +1,23 @@
 [
   {
     "meta": {
+      "title": "E1 Unnamed Worlds",
+      "date": "2025-11-24",
+      "image": "https://brine.dev/assets/images/brine_square.jpg",
+      "tags": [
+        "podcast",
+        "named",
+        "oyab",
+        "wob"
+      ],
+      "description": "<p>This is the first episode in a new series of conversations between myself, Wightbred and whomever else. We talk about Wightbred's new zine, Unnammed Worlds; the magic system in brine's game Of Yarn and Bone; how we run ttrpg games and a number of other rambling topics.</p><p>0. By the powers vested in me (which are none), I give you permission to do anything, change anything or ignore anything that results in a better game for you and your players. Forever.</p><p>https://worldof.brine.dev</p>",
+      "slug": "e1_unnamed_worlds"
+    },
+    "markdown": "![thumb](assets/images/brine_square.jpg)\n\nThis is the first episode in a new series of conversations between myself, Wightbred and whomever else. We talk about Wightbred's new zine, Unnammed Worlds; the magic system in brine's game Of Yarn and Bone; how we run ttrpg games and a number of other rambling topics.\n\n0. _By the powers vested in me (which are none), I give you permission to do anything, change anything or ignore anything that results in a better game for you and your players. Forever._\n\n- [Unnamed Worlds](https://wightbred.itch.io/unnamedworlds)\n- [Named Toolkit](https://wightbred.itch.io/named)\n- [Of Yarn and Bone](https://brine.dev/#post?s=of_yarn_and_bone)\n- [2400](https://jasontocci.itch.io/2400)\n\n<audio controls src=\"https://archive.org/download/01.unnamed-worlds/01.unnamed_worlds.mp3\"></audio>",
+    "html": "<p><img src=\"assets/images/brine_square.jpg\" alt=\"thumb\"></p>\n<p>This is the first episode in a new series of conversations between myself, Wightbred and whomever else. We talk about Wightbred&#39;s new zine, Unnammed Worlds; the magic system in brine&#39;s game Of Yarn and Bone; how we run ttrpg games and a number of other rambling topics.</p>\n<ol start=\"0\">\n<li><em>By the powers vested in me (which are none), I give you permission to do anything, change anything or ignore anything that results in a better game for you and your players. Forever.</em></li>\n</ol>\n<ul>\n<li><a href=\"https://wightbred.itch.io/unnamedworlds\">Unnamed Worlds</a></li>\n<li><a href=\"https://wightbred.itch.io/named\">Named Toolkit</a></li>\n<li><a href=\"https://brine.dev/#post?s=of_yarn_and_bone\">Of Yarn and Bone</a></li>\n<li><a href=\"https://jasontocci.itch.io/2400\">2400</a></li>\n</ul>\n<p><audio controls src=\"https://archive.org/download/01.unnamed-worlds/01.unnamed_worlds.mp3\"></audio></p>\n"
+  },
+  {
+    "meta": {
       "title": "Night City - One Shot",
       "date": "2024-3-5",
       "image": "https://brine.dev/assets/images/night_city_square.png",
