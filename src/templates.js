@@ -38,7 +38,7 @@ export const aboutPageTemplate = () => `
       <a href="https://casadeocio.itch.io/" title="games on itch"><img src="assets/images/social/itch-io.png" alt="my publications on itch"></a>
       <a href="https://podcasts.apple.com/us/podcast/world-of-brine/id1547081865" title="World of Brine"><img src="assets/images/social/podcast.png" alt="World of Brine on Apple"></a>
       <a href="https://www.youtube.com/channel/UCy0_3iGguFBabUOdQ2o_ZUQ" title="youtube"><img src="assets/images/social/youtube.png" alt="youtube"></a>
-      <a href="/assets/rss/blog.xml"><img src="assets/images/social/rss.png" title="blog rss" alt="blog rss"></a>
+      <a href="/assets/rss/pod.xml"><img src="assets/images/social/rss.png" title="blog rss" alt="blog rss"></a>
     </div>
   </div>
 `

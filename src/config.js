@@ -1,6 +1,6 @@
 const config = {
   title: 'World of Brine',
-  description: 'A ttrpg podcast...',
+  description: 'World of Brine is a ttrpg podcast of words and worlds; meandering conversations and actual play games. #oyab #named',
   url: 'https://worldof.brine.dev',
   pathToIndex: './index.json',
   pathToPostsFolder: './posts',
