@@ -7,7 +7,7 @@ description: The Arson Crew find themselves in the middle of an old fey tale. "T
 image: https://worldof.brine.dev/assets/images/frost_spire/image.png
 ---
 
-![thumb](assets/images/frost_spire/image.png)The Arson Crew™ find themselves in the middle of an old fey tale. "The Ice Prince" is legend. A prince lives who travels the seas in a castle of ice; his wives feasting on children who misbehave.
+![thumb](https://worldof.brine.dev/assets/images/frost_spire/image.png)The Arson Crew™ find themselves in the middle of an old fey tale. "The Ice Prince" is legend. A prince lives who travels the seas in a castle of ice; his wives feasting on children who misbehave.
 
 **The Frost Spire**
 
@@ -18,8 +18,6 @@ _But sometimes, he hungers for the blood of bad children..._
 [The Frost Spire](https://swordfishislands.itch.io/the-frost-spire) by Jacob Hurst
 
 **World of Brine** is an _actual play_, rpg, podcast, using the [1420](https://casadeocio.itch.io/1420-bnb) ruleset.
-
-<break>
 
 ### Cast
 - **Cool Shade Beneath Midday Sun (Shade)** - Stealthy, Expert Survivalist, Perceptive

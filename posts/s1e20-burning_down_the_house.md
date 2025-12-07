@@ -6,7 +6,7 @@ description: Watch out, you might get what you're after; cool Birdy, that lighte
 image: https://worldof.brine.dev/assets/images/season1/image.png
 ---
 
-![thumb](assets/images/season1/image.png)Watch out, you might get what you're after<br>
+![thumb](https://worldof.brine.dev/assets/images/season1/image.png)Watch out, you might get what you're after<br>
 cool Birdy, that lighter's getting lighter<br>
 this voodoo... looks a lot like me<br>
 burning down the house

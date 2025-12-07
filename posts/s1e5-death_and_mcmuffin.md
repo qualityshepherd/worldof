@@ -6,7 +6,7 @@ description: In order to save his parents, our _reluctant sailor_, McMuffin dies
 image: https://worldof.brine.dev/assets/images/season1/image.png
 ---
 
-![thumb](assets/images/season1/image.png)In order to save his parents, our _reluctant sailor_, McMuffin dies and bargains with Death!
+![thumb](https://worldof.brine.dev/assets/images/season1/image.png)In order to save his parents, our _reluctant sailor_, McMuffin dies and bargains with Death!
 
 **World of Brine** is an _actual play_, rpg, podcast, using the [World of Dungeons (WoDu)](http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf) ruleset.
 

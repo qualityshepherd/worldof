@@ -6,7 +6,7 @@ description: Gorath visits the _little orc's room_ and then he crew travels thro
 image: https://worldof.brine.dev/assets/images/season1/image.png
 ---
 
-![thumb](assets/images/season1/image.png)Gorath visits the _little orc's room_ and then he crew travels through the mirror plane, looking for Malik's house. They meet some shiny ravens...
+![thumb](https://worldof.brine.dev/assets/images/season1/image.png)Gorath visits the _little orc's room_ and then he crew travels through the mirror plane, looking for Malik's house. They meet some shiny ravens...
 
 **World of Brine** is an _actual play_, rpg, podcast, using the [World of Dungeons (WoDu)](http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf) ruleset.
 

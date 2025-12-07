@@ -7,7 +7,7 @@ description: While ascending the Frost Spire, the crew come upon a ~~roadblock~~
 image: https://worldof.brine.dev/assets/images/frost_spire/image.png
 ---
 
-![thumb](assets/images/frost_spire/image.png)**I PUNCH IT!**
+![thumb](https://worldof.brine.dev/assets/images/frost_spire/image.png)**I PUNCH IT!**
 
 While ascending the Frost Spire, the crew come upon a ~roadblock~ knight in non-shining armor. As Wrath would tell you, returning from the dead is easy compared to climbing an ice tower in full plate. But the crew ties a rope around him and schleps him along (lest be stuck waiting for his slow-ass). Revenants--come to find out--like throwing rocks and punching things... who knew :shrug:
 
@@ -20,8 +20,6 @@ _But sometimes, he hungers for the blood of bad children..._
 [The Frost Spire](https://swordfishislands.itch.io/the-frost-spire) by Jacob Hurst
 
 **World of Brine** is an _actual play_, rpg, podcast, using the [1420](https://casadeocio.itch.io/1420-bnb) ruleset.
-
-<break>
 
 ### Cast
 - **Cool Shade Beneath Midday Sun (Shade)** - Stealthy, Expert Survivalist, Perceptive

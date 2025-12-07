@@ -6,9 +6,7 @@ description: This was the very first session of what was _supposed to be_ just a
 image: https://worldof.brine.dev/assets/images/season0/image.jpg
 ---
 
-![thumb](assets/images/season0/image.jpg)This was the very first session of what was _supposed to be_ just a oneshot... but would become a full campaign. [Tower of the Time Wizard](assets/images/tower_of_the_time_wizard.pdf) is a fun, one-page, dungeon, written by Andrew Harshman. In this 3 part podcast, we run Andrew's one-pager using the [World of Dungeons](http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf) ruleset.
-
-<break>
+![thumb](https://worldof.brine.dev/assets/images/season0/image.jpg)This was the very first session of what was _supposed to be_ just a oneshot... but would become a full campaign. [Tower of the Time Wizard](https://worldof.brine.dev/assets/images/tower_of_the_time_wizard.pdf) is a fun, one-page, dungeon, written by Andrew Harshman. In this 3 part podcast, we run Andrew's one-pager using the [World of Dungeons](http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf) ruleset.
 
 This was my first time running _WoDu_, and so we take a good amount of time talking about characters and rules.
 

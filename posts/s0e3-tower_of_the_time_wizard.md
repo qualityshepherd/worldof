@@ -6,9 +6,7 @@ description: Death becomes us! The 3rd floor puzzles the party and the 4th... we
 image: https://worldof.brine.dev/assets/images/season0/image.jpg
 ---
 
-![thumb](assets/images/season0/image.jpg)Death becomes us! The 3rd floor puzzles the party and the 4th... well... it's complected.
-
-<break>
+![thumb](https://worldof.brine.dev/assets/images/season0/image.jpg)Death becomes us! The 3rd floor puzzles the party and the 4th... well... it's complected.
 
 ### Cast
 - **Yulia** - human cleric

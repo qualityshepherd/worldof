@@ -7,7 +7,7 @@ description: It's PCs vs Polar Bear... my money is on the _bed_. Don't lose your
 image: https://worldof.brine.dev/assets/images/frost_spire/image.png
 ---
 
-![thumb](assets/images/frost_spire/image.png)**I PUNCH IT!**
+![thumb](https://worldof.brine.dev/assets/images/frost_spire/image.png)**I PUNCH IT!**
 
 It's PCs vs Polar Bear... my money is on the _bed_. Don't lose your hand!
 
@@ -20,8 +20,6 @@ _But sometimes, he hungers for the blood of bad children..._
 [The Frost Spire](https://swordfishislands.itch.io/the-frost-spire) by Jacob Hurst
 
 **World of Brine** is an _actual play_, rpg, podcast, using the [1420](https://casadeocio.itch.io/1420-bnb) ruleset.
-
-<break>
 
 ### Cast
 - **Cool Shade Beneath Midday Sun (Shade)** - Stealthy, Expert Survivalist, Perceptive

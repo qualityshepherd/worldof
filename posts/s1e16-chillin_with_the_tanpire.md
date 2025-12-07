@@ -6,7 +6,7 @@ description: Our heroes navigate the mirror plane back to Malik Maxwell's (aka _
 image: https://worldof.brine.dev/assets/images/season1/image.png
 ---
 
-![thumb](assets/images/season1/image.png)Our heroes navigate the mirror plane back to Malik Maxwell's (aka _The Tanpire). They rest up; have some funky dreams; do a little snooping; ask _all_ the questions; and formulate a plan!
+![thumb](https://worldof.brine.dev/assets/images/season1/image.png)Our heroes navigate the mirror plane back to Malik Maxwell's (aka _The Tanpire). They rest up; have some funky dreams; do a little snooping; ask _all_ the questions; and formulate a plan!
 
 **World of Brine** is an _actual play_, rpg, podcast, using the [World of Dungeons (WoDu)](http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf) ruleset.
 

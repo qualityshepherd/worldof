@@ -6,7 +6,7 @@ description: The crew visit the home of Malik Maxwell; noted, local business man
 image: https://worldof.brine.dev/assets/images/season1/image.png
 ---
 
-![thumb](assets/images/season1/image.png)The crew visit the home of Malik Maxwell: noted, local business man and borrower of magic books and expensive booze collector. And they tell him _every. thing._.
+![thumb](https://worldof.brine.dev/assets/images/season1/image.png)The crew visit the home of Malik Maxwell: noted, local business man and borrower of magic books and expensive booze collector. And they tell him _every. thing._.
 
 **World of Brine** is an _actual play_, rpg, podcast, using the [World of Dungeons (WoDu)](http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf) ruleset.
 

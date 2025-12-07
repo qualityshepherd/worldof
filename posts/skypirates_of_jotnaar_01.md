@@ -3,10 +3,10 @@ title: Skypirates of Jotnaar - 01 Are We Warriors or Worriers?
 date: 2023-10-14
 tags: podcast, actual-play, skypirates-of-jotnaar
 description: an actual play, in which Captain "Lacy" Rainsborough gets the answer to the penultimate question -- are we warriors or worriers?
-image: https://playworldspodcast.com/assets/images/skypirates_of_jatnaar_square.png
+image: https://worldof.brine.dev/assets/images/skypirates_of_jatnaar_square.png
 ---
 
-![thumb](assets/images/skypirates_of_jatnaar_square.png)
+![thumb](https://worldof.brine.dev/assets/images/skypirates_of_jatnaar_square.png)
 
 an actual play using Wightbred's [Named](https://wightbred.itch.io/named) toolset.
 
@@ -19,4 +19,4 @@ In this, the inaugural episode, Captain _"Lacy"_ Rainsborough gets the answer to
 
 <audio controls src="https://archive.org/download/skypirates_of_jotnaar/skypirates_of_jotnaar.mp3"></audio>
 
-![image](assets/images/jotnaar.png)
+[Map of Jontaar](https://worldof.brine.dev/assets/images/jotnaar.png)

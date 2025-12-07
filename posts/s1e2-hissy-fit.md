@@ -6,11 +6,9 @@ description: The crew travel by balloon to McMufin's home town of ~~Hissy Fit~~ 
 image: https://worldof.brine.dev/assets/images/season1/image.png
 ---
 
-![thumb](assets/images/season1/image.png)The crew travel by balloon to McMufin's home town of ~Hissy Fit~ **Hsifilet**.
+![thumb](https://worldof.brine.dev/assets/images/season1/image.png)The crew travel by balloon to McMufin's home town of ~Hissy Fit~ **Hsifilet**.
 
 **World of Brine** is an _actual play_, rpg, podcast, using the [World of Dungeons (WoDu)](http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf) ruleset.
-
-<break>
 
 ### Cast
 - **Yulia** - human cleric

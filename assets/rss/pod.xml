@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0"
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
   xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>World of Brine</title>
@@ -24,142 +25,329 @@
     <title>E2 Too High To Trust</title>
     <link>https://worldof.brine.dev/#post?s=e2_too_high_to_trust</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=e2_too_high_to_trust</guid>
-    <description><p>Wightbred and Brine talk about trust... why real trust at the table isn't about verification or "high trust" frameworks... it's about creating a normal conversational environment where everyone collaborates to tell interesting stories together. We're NOT talking about story games... though we do talk about story games 🤔</p><p><strong>Links:</strong></p><ul><li><a href="https://wightbred.itch.io/">Wightbred</a></li><li><a href="https://brine.dev/">brine</a></li><li><a href="https://brine.dev/#post?s=fkr">FKR</a></li><li><a href="https://wightbred.itch.io/named">Named</a></li><li><a href="https://lumpley.itch.io/apocalypse-world">Apocalypse World</a></li><li><a href="https://wightbred.itch.io/skypirates-of-jotnaar">Jotnar</a></li><li><a href="https://worldof.brine.dev/#post?s=night_city">Night City Actual Play</a></li></ul></description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/brine_square.jpg" alt="thumb"></p>
+<p>Wightbred and Brine talk about trust... why real trust at the table isn&#39;t about verification or high trust frameworks... it&#39;s about creating a normal conversational environment where everyone collaborates to tell interesting stories together. We&#39;re NOT talking about story games... though we do talk about story games 🤔</p>
+<ul>
+<li><a href="https://wightbred.itch.io/">Wightbred</a></li>
+<li><a href="https://brine.dev/">Brine</a></li>
+<li><a href="https://brine.dev/#post?s=fkr">FKR</a></li>
+<li><a href="https://wightbred.itch.io/named">Named</a></li>
+<li><a href="https://lumpley.itch.io/apocalypse-world">Apocalypse World</a></li>
+<li><a href="https://wightbred.itch.io/skypirates-of-jotnaar">Jotnar</a></li>
+<li><a href="https://worldof.brine.dev/#post?s=night_city">Night City Actual Play</a></li>
+</ul>
+<p><audio controls src="https://archive.org/download/e2.too_high_to_trust/e2.too_high_to_trust.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/e2.too_high_to_trust/e2.too_high_to_trust.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sat, 06 Dec 2025 00:04:20 GMT</pubDate>
-    <itunes:image href="https://brine.dev/assets/images/brine_square.jpg" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/brine_square.jpg" />
   </item>
   <item>
     <title>E1 Unnamed Worlds, Tarot Magic, and Conversation-First Design</title>
     <link>https://worldof.brine.dev/#post?s=e1_unnamed_worlds</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=e1_unnamed_worlds</guid>
-    <description><p>This is the first episode in a new series of conversations between myself, Wightbred and whomever else. We talk about Wightbred's new zine, Unnammed Worlds; the magic system in brine's game Of Yarn and Bone; why we like narrative-first, conversation-driven ttrpgs, and a number of other rambling topics.</p><p>0. By the powers vested in me (which are none), I give you permission to do anything, change anything or ignore anything that results in a better game for you and your players. Forever.</p><p><a href="https://wightbred.itch.io/unnamedworlds">Unnamed Worlds</a></p><p><a href="https://wightbred.itch.io/named">Named</a></p><p><a href="https://brine.dev/#post?s=of_yarn_and_bone">Of Yarn and Bone</a></p><p><a href="https://rando.brine.dev">Rando</a></p></description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/brine_square.jpg" alt="thumb"></p>
+<p>This is the first episode in a new series of conversations between myself, Wightbred and whomever else. We talk about Wightbred&#39;s new zine, Unnammed Worlds; the magic system in brine&#39;s game Of Yarn and Bone; why we like narrative-first, conversation-driven ttrpgs, and a number of other rambling topics.</p>
+<ol start="0">
+<li><em>By the powers vested in me (which are none), I give you permission to do anything, change anything or ignore anything that results in a better game for you and your players. Forever.</em></li>
+</ol>
+<ul>
+<li><a href="https://wightbred.itch.io/unnamedworlds">Unnamed Worlds</a></li>
+<li><a href="https://wightbred.itch.io/named">Named Toolkit</a></li>
+<li><a href="https://brine.dev/#post?s=of_yarn_and_bone">Of Yarn and Bone</a></li>
+<li><a href="https://rando.brine.dev">Rando</a></li>
+<li><a href="https://jasontocci.itch.io/2400">2400</a></li>
+</ul>
+<p><audio controls src="https://archive.org/download/01.unnamed-worlds/01.unnamed_worlds.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/01.unnamed-worlds/01.unnamed_worlds.mp3" type="audio/mpeg" length="0" />
     <pubDate>Mon, 24 Nov 2025 00:04:20 GMT</pubDate>
-    <itunes:image href="https://brine.dev/assets/images/brine_square.jpg" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/brine_square.jpg" />
   </item>
   <item>
     <title>Night City - One Shot</title>
     <link>https://worldof.brine.dev/#post?s=night_city</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=night_city</guid>
-    <description>Amongst the jukebox joints and DJ dives, there are only four lounges left in downtown **Night City** where a  band can get a regular gig. At least, one that will keep the landlord at bay for another month.</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/night_city/night_city_square.png" alt="thumb"></p>
+<p>an actual play using <a href="https://wightbred.itch.io/named">Named Toolkit</a></p>
+<p>Amongst the jukebox joints and DJ dives, there are only four lounges left in downtown <strong>Night City</strong> where a  band can get a regular gig. At least, one that will keep the landlord at bay for another month.</p>
+<p>Tension is building in the flea hotels and flophouses where local musicians count their pennies and try to sleep out the days, and the Gracie Mathews’ Experience should be watching their back. To add to the insult, they even stole your old drummer Dennis “the Rat” Rushmore - he was a piece of human flotsom, but he could actually play.</p>
+<ul>
+<li><strong>Valerie Weiss</strong> (Yulia): Runaway, Physical, Disappointment</li>
+<li><strong>Shakes</strong> (Mechanought): Fanboy, Synth, Blabby</li>
+<li><strong>Kai Hames</strong> (brine): Wordsmith, Fork Lift Operator, Talker</li>
+<li><strong>Wightbred</strong> - your <em>friendly</em> Game Maestro</li>
+</ul>
+<p><em>The <a href="https://worldof.brine.dev">World of Brine</a> Podcast is available on all <a href="https://pod.link/1547081865">your favorite podcast apps</a></em></p>
+<p><audio controls src="https://archive.org/download/wob_20240305/night_city.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/wob_20240305/night_city.mp3" type="audio/mpeg" length="0" />
     <pubDate>Tue, 05 Mar 2024 00:04:20 GMT</pubDate>
-    <itunes:image href="https://brine.dev/assets/images/night_city_square.png" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/night_city/night_city_square.png" />
   </item>
   <item>
     <title>Butchers - 01 The Butcher, The Baker and The Clandestine Faker</title>
     <link>https://worldof.brine.dev/#post?s=butchers_01_the_butcher_the_baker_and_the_clandestine_faker</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=butchers_01_the_butcher_the_baker_and_the_clandestine_faker</guid>
-    <description>Welcome aboard the Delta Queen, your ticket to cosmic extravagance and discovery! This interstellar marvel stands as one of only two remaining Halo Class Cosmos Cruisers in the galaxy, promising a journey unlike any other. Glide through the stars in unparalleled style and grace, surrounded by timeless elegance at every turn. And when hunger strikes, prepare your taste buds for a culinary odyssey courtesy of the legendary Chef Xanathor, whose creations will leave you starry-eyed with delight. So come, embark on the adventure of a lifetime aboard the Delta Queen, where each voyage is a cosmic escapade into the great unknown of space!</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/butchers/delta_queen.webp" alt="thumb"></p>
+<p>Welcome aboard the Delta Queen, your ticket to cosmic extravagance and discovery! This interstellar marvel stands as one of only two remaining Halo Class Cosmos Cruisers in the galaxy, promising a journey unlike any other. Glide through the stars in unparalleled style and grace, surrounded by timeless elegance at every turn. And when hunger strikes, prepare your taste buds for a culinary odyssey courtesy of the legendary Chef Xanathor, whose creations will leave you starry-eyed with delight. So come, embark on the adventure of a lifetime aboard the Delta Queen, where each voyage is a cosmic escapade into the great unknown of space!</p>
+<ul>
+<li><a href="https://wightbred.itch.io/named">Wightbred</a> - GM</li>
+<li><a href="https://brine.dev">brine</a> - <strong>Cypress Shaw</strong> Reluctant Captain, Butcher, Disappointment</li>
+<li><a href="https://www.lulu.com/shop/paul-jennings-and-kitty-hiraeth/palaeolithic-voyages/paperback/product-kpmy8y.html">Paulo</a> - <strong>Chief Monday Lewis</strong> Navy Engineer, By the book, Correspondence Course Medic</li>
+</ul>
+<p><audio controls src="https://archive.org/download/butchers_202402/butchers_01.mp3"></audio></p>
+<p><img src="https://worldof.brine.dev/assets/images/butchers/ship.webp" alt="framed"></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/butchers_202402/butchers_01.mp3" type="audio/mpeg" length="0" />
     <pubDate>Mon, 12 Feb 2024 00:04:20 GMT</pubDate>
-    <itunes:image href="assets/images/butchers/delta_queen.webp" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/butchers/delta_queen.webp" />
   </item>
   <item>
     <title>Butchers - 00 Session Zero</title>
     <link>https://worldof.brine.dev/#post?s=butchers_00_session_zero</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=butchers_00_session_zero</guid>
-    <description>This is session 0 for a new Traveller/Named game. If you were ever curious about "how the sausage gets made", you're in luck! And that's _TWO Ls_.</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/butchers/delta_queen.webp" alt="thumb"></p>
+<p>This is session 0 for a new Traveller/Named game. If you were ever curious about how the sausage gets made, you&#39;re in luck! And that&#39;s <em>TWO Ls</em>.</p>
+<ul>
+<li><a href="https://wightbred.itch.io/named">Wightbred</a> - GM</li>
+<li><a href="https://brine.dev">brine</a> - <strong>Cypress Shaw</strong> Reluctant Captain, Butcher, Disappointment</li>
+<li><a href="https://www.lulu.com/shop/paul-jennings-and-kitty-hiraeth/palaeolithic-voyages/paperback/product-kpmy8y.html">Paulo</a> - <strong>Chief Monday Lewis</strong> Navy Engineer, By the book, Correspondence Course Medic</li>
+</ul>
+<p><audio controls src="https://archive.org/download/travller/travller_game_00_session_zero.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/travller/travller_game_00_session_zero.mp3" type="audio/mpeg" length="0" />
     <pubDate>Thu, 01 Feb 2024 00:04:20 GMT</pubDate>
-    <itunes:image href="assets/images/butchers/delta_queen.webp" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/butchers/delta_queen.webp" />
   </item>
   <item>
     <title>Stamford Bridge - 02 Rather Be Lucky Than Good</title>
     <link>https://worldof.brine.dev/#post?s=stamfrod_bridge_01_rather_be_lucky_than_good</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=stamfrod_bridge_01_rather_be_lucky_than_good</guid>
-    <description>The final chapter in our Stamford Bridge adventure. Does Jens make it aboard one of twenty four ships that returned to Norway? NO SPOILERS!</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/stamford_bridge/stamford_bridge_thumb.webp" alt="thumb"></p>
+<p>an actual play using <a href="https://wightbred.itch.io/named">Named toolset</a></p>
+<p>The final chapter in our Stamford Bridge adventure. Does Jens make it aboard one of twenty four ships that returned to Norway? NO SPOILERS!</p>
+<ul>
+<li><a href="https://www.lulu.com/shop/paul-jennings-and-kitty-hiraeth/palaeolithic-voyages/paperback/product-kpmy8y.html">Paulo</a>- GM</li>
+<li><a href="https://brine.dev">brine</a> as <strong>Jens Aaberg</strong> Swordsman, Guide, Insightful</li>
+</ul>
+<p><audio controls src="https://archive.org/download/stamford_bridge/stamfrod_bridge_02_rather_be_lucky_than_good.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/stamford_bridge/stamfrod_bridge_02_rather_be_lucky_than_good.mp3" type="audio/mpeg" length="0" />
     <pubDate>Mon, 01 Jan 2024 00:04:20 GMT</pubDate>
-    <itunes:image href="https://playworldspodcast.com/assets/images/stamford_bridge/stamford_bridge_thumb.webp" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/stamford_bridge/stamford_bridge_thumb.webp" />
   </item>
   <item>
     <title>Stamford Bridge - 01 Pretty Girl</title>
     <link>https://worldof.brine.dev/#post?s=stamfrod_bridge_01_pretty_girl</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=stamfrod_bridge_01_pretty_girl</guid>
-    <description>Jens awakes on the banks of the river Derwent. The Battle of Stamford Bridge is over. It was a battle of Harolds and Jens' Harold has fallen. What now?</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/stamford_bridge/stamford_bridge_thumb.webp" alt="thumb"></p>
+<p>an actual play using <a href="https://wightbred.itch.io/named">Named toolset</a></p>
+<p>Jens awakes on the banks of the river Derwent. The Battle of Stamford Bridge is over. It was a battle of Harolds and Jens&#39; Harold has fallen. What now?</p>
+<ul>
+<li><a href="https://www.lulu.com/shop/paul-jennings-and-kitty-hiraeth/palaeolithic-voyages/paperback/product-kpmy8y.html">Paulo</a>- GM</li>
+<li><a href="https://brine.dev">brine</a> as <strong>Jens Aaberg</strong> Swordsman, Guide, Insightful</li>
+</ul>
+<p><audio controls src="https://archive.org/download/stamfrod_bridge_01/stamfrod_bridge_01_pretty_girl.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/stamfrod_bridge_01/stamfrod_bridge_01_pretty_girl.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sun, 24 Dec 2023 00:04:20 GMT</pubDate>
-    <itunes:image href="https://playworldspodcast.com/assets/images/stamford_bridge/stamford_bridge_thumb.webp" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/stamford_bridge/stamford_bridge_thumb.webp" />
   </item>
   <item>
     <title>Southern Coast - 04 A Better Door than a Window</title>
     <link>https://worldof.brine.dev/#post?s=southern_coast_04_a_better_door_than_a_window</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=southern_coast_04_a_better_door_than_a_window</guid>
-    <description>In our final episode of The Southern Coast, Hergest leaves the Prison of Mon and finds not one, but two familiar faces... or is it three?</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/southern_coast/prison_of_mon.webp" alt="thumb"></p>
+<p>An actual play using <em>Of Yarn and Bone</em>; recorded live on the Play Worlds Discord server.</p>
+<p>In our final episode of The Southern Coast, Hergest leaves the Prison of Mon and finds not one, but two familiar faces... or is it three?</p>
+<p><a href="https://worldof.brine.dev/assets/images/southern_coast/southern_coast.png">map</a></p>
+<ul>
+<li><a href="https://brine.dev">brine</a> - GM</li>
+<li><a href="https://www.lulu.com/shop/paul-jennings-and-kitty-hiraeth/palaeolithic-voyages/paperback/product-kpmy8y.html">Paulo</a> as <strong>Hergest the Healer</strong> Herbalist Well-traveled, Old</li>
+</ul>
+<p><audio controls src="https://archive.org/download/southern_coast4/southern_coast_04_a_better_door_than_a_window.md.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/southern_coast4/southern_coast_04_a_better_door_than_a_window.md.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sat, 23 Dec 2023 00:04:20 GMT</pubDate>
-    <itunes:image href="https://playworldspodcast.com/assets/images/southern_coast/prison_of_mon.webp" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/southern_coast/prison_of_mon.webp" />
   </item>
   <item>
     <title>Skypirates of Jotnaar - 05 Release The Kraken</title>
     <link>https://worldof.brine.dev/#post?s=skypirates_of_jotnaar_05_release_the_kraken</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=skypirates_of_jotnaar_05_release_the_kraken</guid>
-    <description>The final session of Skypirates of Jotnaar... NO SPOILERS!!!1!</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/skypirates_of_jatnaar_square.png" alt="thumb"></p>
+<p><a href="https://wightbred.itch.io/skypirates-of-jotnaar">Skypirates of Jotnaar</a>
+is an actual play using <a href="https://wightbred.itch.io/named">Named</a> toolset.</p>
+<p>The final session of Skypirates of Jotnaar... NO SPOILERS!!!1!</p>
+<ul>
+<li><a href="https://wightbred.itch.io/named">Wightbred</a> - GM</li>
+<li><a href="https://www.lulu.com/shop/paul-jennings-and-kitty-hiraeth/palaeolithic-voyages/paperback/product-kpmy8y.html">Paulo</a> as <strong>Nathaniel Rainsborough</strong>: Captain, Chartsman, Talker, +Respected</li>
+<li><a href="https://tale-of-rat-and-snake.blogspot.com">7th Outpost</a> as <strong>Lily Windchaser</strong>: Night Witch, Dashing Rogue, Precise, +Panache</li>
+<li><a href="https://brine.dev">brine</a> as <strong>Daltanious Dalt Quadrille</strong>: Quartermaster, Fiddler, Devoted, +Lynchpin</li>
+</ul>
+<p><a href="https://worldof.brine.dev/assets/images/jotnaar.png">Map of Jontaar</a></p>
+<p><audio controls src="https://archive.org/download/skypirates_of_jotnaar_5_release_the_kraken/skypirates_of_jotnaar_5_release_the_kraken.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/skypirates_of_jotnaar_5_release_the_kraken/skypirates_of_jotnaar_5_release_the_kraken.mp3" type="audio/mpeg" length="0" />
     <pubDate>Tue, 12 Dec 2023 00:04:20 GMT</pubDate>
-    <itunes:image href="https://worldof.brine.dev/assets/images/default.svg" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/skypirates_of_jatnaar_square.png" />
   </item>
   <item>
     <title>Skypirates of Jotnaar - 04 Hexspire Strikes Back</title>
     <link>https://worldof.brine.dev/#post?s=skypirates_of_jotnaar_04_hexspire_strikes_back</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=skypirates_of_jotnaar_04_hexspire_strikes_back</guid>
-    <description>The captains head to Last Drinks to concoct Rainsborough's "simple" plan. Logistics consume everyone's time until news comes over the skwawkbox...</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/skypirates_of_jatnaar_square.png" alt="thumb"></p>
+<p><a href="https://wightbred.itch.io/skypirates-of-jotnaar">Skypirates of Jotnaar</a>
+is an actual play using <a href="https://wightbred.itch.io/named">Named</a> toolset.</p>
+<p>The captains head to Last Drinks to concoct Rainsborough&#39;s simple plan. Logistics consume everyone&#39;s time until news comes over the skwawkbox...</p>
+<ul>
+<li><a href="https://wightbred.itch.io/named">Wightbred</a> - GM</li>
+<li><a href="https://www.lulu.com/shop/paul-jennings-and-kitty-hiraeth/palaeolithic-voyages/paperback/product-kpmy8y.html">Paulo</a> as <strong>Nathaniel Rainsborough</strong>: Captain, Chartsman, Talker, +Respected</li>
+<li><a href="https://tale-of-rat-and-snake.blogspot.com">7th Outpost</a> as <strong>Lily Windchaser</strong>: Night Witch, Dashing Rogue, Precise, +Panache</li>
+<li><a href="https://brine.dev">brine</a> as <strong>Daltanious Dalt Quadrille</strong>: Quartermaster, Fiddler, Devoted, +Lynchpin</li>
+</ul>
+<p><a href="https://worldof.brine.dev/assets/images/jotnaar.png">Map of Jontaar</a></p>
+<p><audio controls src="https://ia601200.us.archive.org/0/items/skypirates_of_jotnaar_04_hexspire_strikes_back/skypirates_of_jotnaar_04_hexspire_strikes_back.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://ia601200.us.archive.org/0/items/skypirates_of_jotnaar_04_hexspire_strikes_back/skypirates_of_jotnaar_04_hexspire_strikes_back.mp3" type="audio/mpeg" length="0" />
     <pubDate>Fri, 08 Dec 2023 00:04:20 GMT</pubDate>
-    <itunes:image href="https://worldof.brine.dev/assets/images/default.svg" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/skypirates_of_jatnaar_square.png" />
   </item>
   <item>
     <title>Southern Coast - 03 The Prison of Mon</title>
     <link>https://worldof.brine.dev/#post?s=southern_coast_03_the_prison_of_mon</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=southern_coast_03_the_prison_of_mon</guid>
-    <description>Hergest travels alone to The Prison of Mon to find help with a fell beast. He hopes The Hag Kalg--a prisoner there--might provide some answers. Two comrades remain at the logger's camp; infected with an insatiable hunger. Using magic, Hergest has taken on part of their burden.</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/southern_coast/prison_of_mon.webp" alt="thumb"></p>
+<p>an actual play using <em>Of Yarn and Bone</em></p>
+<p>Hergest travels alone to The Prison of Mon to find help with a fell beast. He hopes The Hag Kalg--a prisoner there--might provide some answers. Two comrades remain at the logger&#39;s camp; infected with an insatiable hunger. Using magic, Hergest has taken on part of their burden.</p>
+<p><em>Note: due to audio issues, session 2 has been lost</em></p>
+<p><a href="https://worldof.brine.dev/assets/images/southern_coast/southern_coast.png">map</a></p>
+<ul>
+<li><a href="https://brine.dev">brine</a> - GM</li>
+<li><a href="https://www.lulu.com/shop/paul-jennings-and-kitty-hiraeth/palaeolithic-voyages/paperback/product-kpmy8y.html">Paulo</a> as <strong>Hergest the Healer</strong> Herbalist Well-traveled, Old</li>
+</ul>
+<p><audio controls src="https://archive.org/download/southern_coast_03_the_prison_of_mon/southern_coast_03_the_prison_of_mon.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/southern_coast_03_the_prison_of_mon/southern_coast_03_the_prison_of_mon.mp3" type="audio/mpeg" length="0" />
     <pubDate>Fri, 01 Dec 2023 00:04:20 GMT</pubDate>
-    <itunes:image href="https://playworldspodcast.com/assets/images/southern_coast/prison_of_mon.webp" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/southern_coast/prison_of_mon.webp" />
   </item>
   <item>
     <title>Skypirates of Jotnaar - 03 Three Lacy Shirts to the Wind</title>
     <link>https://worldof.brine.dev/#post?s=skypirates_of_jotnaar_03_three_lacy_shirts_to_the_wind</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=skypirates_of_jotnaar_03_three_lacy_shirts_to_the_wind</guid>
-    <description>Dalt buys lacy shirts for all three captains as they plot against Hexspire.</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/skypirates_of_jatnaar_square.png" alt="thumb"></p>
+<p>an actual play using <a href="https://wightbred.itch.io/named">Named</a> toolset.</p>
+<p>Dalt buys lacy shirts for all three captains as they plot against Hexspire.</p>
+<p><code>Remember, remember, the 30th of November, Hexspire, treason and plot.</code></p>
+<ul>
+<li><a href="https://wightbred.itch.io/named">Wightbred</a> - GM</li>
+<li><a href="https://www.lulu.com/shop/paul-jennings-and-kitty-hiraeth/palaeolithic-voyages/paperback/product-kpmy8y.html">Paulo</a> as <strong>Nathaniel Rainsborough</strong>: Captain, Chartsman, Talker, +Respected</li>
+<li><a href="https://tale-of-rat-and-snake.blogspot.com">7th Outpost</a> as <strong>Lily Windchaser</strong>: Night Witch, Dashing Rogue, Precise, +Panache</li>
+<li><a href="https://brine.dev">brine</a> as <strong>Daltanious Dalt Quadrille</strong>: Quartermaster, Fiddler, Devoted, +Lynchpin</li>
+</ul>
+<p><a href="https://worldof.brine.dev/assets/images/jotnaar.png">Map of Jontaar</a></p>
+<p><audio controls src="https://archive.org/download/skypirates_of_jotnaar_three_lacey_shirts_to_the_wind/skypirates_of_jotnaar_three_lacey_shirts_to_the_wind.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/skypirates_of_jotnaar_three_lacey_shirts_to_the_wind/skypirates_of_jotnaar_three_lacey_shirts_to_the_wind.mp3" type="audio/mpeg" length="0" />
     <pubDate>Thu, 30 Nov 2023 00:04:20 GMT</pubDate>
-    <itunes:image href="https://playworldspodcast.com/assets/images/skypirates_of_jatnaar_square.png" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/skypirates_of_jatnaar_square.png" />
   </item>
   <item>
     <title>Southern Coast - 01 The Mad Monk</title>
     <link>https://worldof.brine.dev/#post?s=southern_coast_01</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=southern_coast_01</guid>
-    <description>Hergest travels to Fellstead Monastery on the Southern Coast. He's asked to check in on a Logger's Camp in need of healing. He is accompanied by Sir Ealdred, and Brother Estabar, and on their way, they meet _The Mad Monk_...</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/southern_coast/prison_of_mon.webp" alt="thumb"></p>
+<p>an actual play using <em>Of Yarn and Bone</em></p>
+<p>Hergest travels to Fellstead Monastery on the Southern Coast. He&#39;s asked to check in on a Logger&#39;s Camp in need of healing. He is accompanied by Sir Ealdred, and Brother Estabar, and on their way, they meet <em>The Mad Monk</em>...</p>
+<p><a href="https://worldof.brine.dev/assets/images/southern_coast/southern_coast.png">map</a></p>
+<ul>
+<li><a href="https://brine.dev">brine</a> - GM</li>
+<li><a href="https://www.lulu.com/shop/paul-jennings-and-kitty-hiraeth/palaeolithic-voyages/paperback/product-kpmy8y.html">Paulo</a> as <strong>Hergest the Healer</strong> Herbalist Well-traveled, Old</li>
+</ul>
+<p><audio controls src="https://archive.org/download/southern_coast/southern_coast_01_the_mad_monk.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/southern_coast/southern_coast_01_the_mad_monk.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sun, 26 Nov 2023 00:04:20 GMT</pubDate>
-    <itunes:image href="https://playworldspodcast.com/assets/images/southern_coast/prison_of_mon.webp" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/southern_coast/prison_of_mon.webp" />
   </item>
   <item>
     <title>Skypirates of Jotnaar - 02 Hexspire Marks the Spot</title>
     <link>https://worldof.brine.dev/#post?s=skypirates_of_jotnaar_02_hexspire_marks_the_spot</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=skypirates_of_jotnaar_02_hexspire_marks_the_spot</guid>
-    <description>The crew returns to Hag's Knife full of helium and two captured ships. During the ensuing celebration, Captain "Lacy" Rainsborough wakes grasping a map... to a treasure of dark secrets.</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/skypirates_of_jatnaar_square.png" alt="thumb"></p>
+<p>The crew returns to Hag&#39;s Knife full of helium and two captured ships. During the ensuing celebration, Captain <em>Lacy</em> Rainsborough wakes grasping a map... to a treasure of dark secrets.</p>
+<ul>
+<li><a href="https://wightbred.itch.io/named">Wightbred</a> - GM</li>
+<li><a href="https://www.lulu.com/shop/paul-jennings-and-kitty-hiraeth/palaeolithic-voyages/paperback/product-kpmy8y.html">Paulo</a> as <strong>Nathaniel Rainsborough</strong>: Captain, Chartsman, Talker, +Respected</li>
+<li><a href="https://tale-of-rat-and-snake.blogspot.com">7th Outpost</a> as <strong>Lily Windchaser</strong>: Night Witch, Dashing Rogue, Precise, +Panache</li>
+<li><a href="https://brine.dev">brine</a> as <strong>Daltanious Dalt Quadrille</strong>: Quartermaster, Fiddler, Devoted, +Lynchpin</li>
+</ul>
+<p><a href="https://worldof.brine.dev/assets/images/jotnaar.png">Map of Jontaar</a></p>
+<p><audio controls src="https://archive.org/download/skypirates_of_jotnaar_hexpire_marks_the_spot_02/skypirates_of_jotnaar_hexpire_marks_the_spot_02.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/skypirates_of_jotnaar_hexpire_marks_the_spot_02/skypirates_of_jotnaar_hexpire_marks_the_spot_02.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sun, 05 Nov 2023 00:04:20 GMT</pubDate>
-    <itunes:image href="https://playworldspodcast.com/assets/images/skypirates_of_jatnaar_square.png" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/skypirates_of_jatnaar_square.png" />
   </item>
   <item>
     <title>Skypirates of Jotnaar - 01 Are We Warriors or Worriers?</title>
     <link>https://worldof.brine.dev/#post?s=skypirates_of_jotnaar_01</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=skypirates_of_jotnaar_01</guid>
-    <description>an actual play, in which Captain "Lacy" Rainsborough gets the answer to the penultimate question -- are we warriors or worriers?</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/skypirates_of_jatnaar_square.png" alt="thumb"></p>
+<p>an actual play using Wightbred&#39;s <a href="https://wightbred.itch.io/named">Named</a> toolset.</p>
+<p>In this, the inaugural episode, Captain <em>Lacy</em> Rainsborough gets the answer to the <em>penultimate</em> question: are we warriors or worriers? (SPOILER: it&#39;s <em>not</em> 42)</p>
+<ul>
+<li><a href="https://wightbred.itch.io/named">Wightbred</a> - GM</li>
+<li><a href="https://www.lulu.com/shop/paul-jennings-and-kitty-hiraeth/palaeolithic-voyages/paperback/product-kpmy8y.html">Paulo</a> as <strong>Nathaniel Rainsborough</strong>: Captain, Chartsman, Talker</li>
+<li><a href="https://tale-of-rat-and-snake.blogspot.com">7th Outpost</a> as <strong>Lily Windchaser</strong>: Night Witch, Dashing Rogue, Precise</li>
+<li><a href="https://brine.dev">brine</a> as <strong>Daltanious Dalt Quadrille</strong>: Quartermaster, Fiddler, Devoted</li>
+</ul>
+<p><audio controls src="https://archive.org/download/skypirates_of_jotnaar/skypirates_of_jotnaar.mp3"></audio></p>
+<p><a href="https://worldof.brine.dev/assets/images/jotnaar.png">Map of Jontaar</a></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/skypirates_of_jotnaar/skypirates_of_jotnaar.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sat, 14 Oct 2023 00:04:20 GMT</pubDate>
-    <itunes:image href="https://playworldspodcast.com/assets/images/skypirates_of_jatnaar_square.png" />
+    <itunes:image href="https://worldof.brine.dev/assets/images/skypirates_of_jatnaar_square.png" />
   </item>
   <item>
     <title>The Frost Spire - Part 4</title>
     <link>https://worldof.brine.dev/#post?s=the_frost_spire-part4</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=the_frost_spire-part4</guid>
-    <description>It's PCs vs Polar Bear... my money is on the _bed_. Don't lose your hand!</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/frost_spire/image.png" alt="thumb"><strong>I PUNCH IT!</strong></p>
+<p>It&#39;s PCs vs Polar Bear... my money is on the <em>bed</em>. Don&#39;t lose your hand!</p>
+<p><strong>The Frost Spire</strong></p>
+<p>Long ago, when the world was new an elf king was banished and tossed into the sea. His hatred was so great, and so cold, that it froze the water into a spire of ice and he was cursed to drift forever, bringing winter to the world.</p>
+<p><em>But sometimes, he hungers for the blood of bad children...</em></p>
+<p><a href="https://swordfishislands.itch.io/the-frost-spire">The Frost Spire</a> by Jacob Hurst</p>
+<p><strong>World of Brine</strong> is an <em>actual play</em>, rpg, podcast, using the <a href="https://casadeocio.itch.io/1420-bnb">1420</a> ruleset.</p>
+<h3>Cast</h3>
+<ul>
+<li><strong>Cool Shade Beneath Midday Sun (Shade)</strong> - Stealthy, Expert Survivalist, Perceptive</li>
+<li><strong>The Fighter</strong> - Tough, Deadly, Fighter</li>
+<li><strong>Checkers Obmih</strong> - Healer, Tough, Fighter, Strong</li>
+<li><strong>Wrath</strong> - Deadly, Penitent, Strong, Fighter</li>
+<li><strong>Brine</strong> - your <em>friendly</em> Game Maestro</li>
+</ul>
+<p><audio controls src="https://archive.org/download/the_frost_spire-part3/the_frost_spire-part4.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/the_frost_spire-part3/the_frost_spire-part4.mp3" type="audio/mpeg" length="0" />
     <pubDate>Thu, 09 Jun 2022 00:04:20 GMT</pubDate>
     <itunes:image href="https://worldof.brine.dev/assets/images/frost_spire/image.png" />
@@ -168,7 +356,25 @@
     <title>The Frost Spire - Part 3</title>
     <link>https://worldof.brine.dev/#post?s=the_frost_spire-part3</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=the_frost_spire-part3</guid>
-    <description>While ascending the Frost Spire, the crew come upon a ~~roadblock~~ knight in non-shining armor. As Wrath would tell you, returning from the dead is easy compared to climbing an ice tower in full plate. But the crew ties a rope around him and schleps him along (lest be stuck waiting for his slow-ass). Revenants--come to find out--like throwing rocks and hitting things... who knew :shrug:</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/frost_spire/image.png" alt="thumb"><strong>I PUNCH IT!</strong></p>
+<p>While ascending the Frost Spire, the crew come upon a <del>roadblock</del> knight in non-shining armor. As Wrath would tell you, returning from the dead is easy compared to climbing an ice tower in full plate. But the crew ties a rope around him and schleps him along (lest be stuck waiting for his slow-ass). Revenants--come to find out--like throwing rocks and punching things... who knew :shrug:</p>
+<p><strong>The Frost Spire</strong></p>
+<p>Long ago, when the world was new an elf king was banished and tossed into the sea. His hatred was so great, and so cold, that it froze the water into a spire of ice and he was cursed to drift forever, bringing winter to the world.</p>
+<p><em>But sometimes, he hungers for the blood of bad children...</em></p>
+<p><a href="https://swordfishislands.itch.io/the-frost-spire">The Frost Spire</a> by Jacob Hurst</p>
+<p><strong>World of Brine</strong> is an <em>actual play</em>, rpg, podcast, using the <a href="https://casadeocio.itch.io/1420-bnb">1420</a> ruleset.</p>
+<h3>Cast</h3>
+<ul>
+<li><strong>Cool Shade Beneath Midday Sun (Shade)</strong> - Stealthy, Expert Survivalist, Perceptive</li>
+<li><strong>The Fox</strong> - Deadly, Stealthy, Perceptive, Allusive</li>
+<li><strong>The Fighter</strong> - Tough, Deadly, Fighter</li>
+<li><strong>Checkers Obmih</strong> - Healer, Tough, Fighter, Strong</li>
+<li><strong>Wrath</strong> - Deadly, Penitent, Strong, Fighter</li>
+<li><strong>Brine</strong> - your <em>friendly</em> Game Maestro</li>
+</ul>
+<p><audio controls src="https://archive.org/download/the_frost_spire-part3/the_frost_spire-part3.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/the_frost_spire-part3/the_frost_spire-part3.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sun, 05 Jun 2022 00:04:20 GMT</pubDate>
     <itunes:image href="https://worldof.brine.dev/assets/images/frost_spire/image.png" />
@@ -177,7 +383,24 @@
     <title>The Frost Spire - Part 2</title>
     <link>https://worldof.brine.dev/#post?s=the_frost_spire-part2</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=the_frost_spire-part2</guid>
-    <description>Oh no! He's hot! A frozen sea is no place for a himbo... I mean, if there is nobody around to gaze lovingly into the eyes; strong jawline and moonstruck mustache of a handsome man... is he really handsome? Oh, and there's some wolves or something... whatever. Now MOVE! You're blocking his moonlight.</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/frost_spire/image.png" alt="thumb"><strong>Oh no! He&#39;s hot!</strong></p>
+<p>A frozen sea is no place for a himbo... I mean, if there is nobody around to gaze lovingly into the eyes; strong jawline and moonstruck mustache of a handsome man... is he really handsome? Oh, and there&#39;s some wolves or something... whatever. Now MOVE! You&#39;re blocking his moonlight.</p>
+<p><strong>The Frost Spire</strong></p>
+<p>Long ago, when the world was new an elf king was banished and tossed into the sea. His hatred was so great, and so cold, that it froze the water into a spire of ice and he was cursed to drift forever, bringing winter to the world.</p>
+<p><em>But sometimes, he hungers for the blood of bad children...</em></p>
+<p><a href="https://swordfishislands.itch.io/the-frost-spire">The Frost Spire</a> by Jacob Hurst</p>
+<p><strong>World of Brine</strong> is an <em>actual play</em>, rpg, podcast, using the <a href="https://casadeocio.itch.io/1420-bnb">1420</a> ruleset.</p>
+<h3>Cast</h3>
+<ul>
+<li><strong>Cool Shade Beneath Midday Sun (Shade)</strong> - Stealthy, Expert Survivalist, Perceptive</li>
+<li><strong>The Fox</strong> - Deadly, Stealthy, Perceptive, Allusive</li>
+<li><strong>The Fighter</strong> - Tough, Deadly, Fighter</li>
+<li><strong>Checkers Obmih</strong> - Healer, Tough, Fighter, Strong</li>
+<li><strong>Brine</strong> - your <em>friendly</em> Game Maestro</li>
+</ul>
+<p><audio controls src="https://archive.org/download/the_frost_spire-part3/the_frost_spire-part2.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/the_frost_spire-part3/the_frost_spire-part2.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sun, 29 May 2022 00:04:20 GMT</pubDate>
     <itunes:image href="https://worldof.brine.dev/assets/images/frost_spire/image.png" />
@@ -186,7 +409,22 @@
     <title>The Frost Spire - Part 1</title>
     <link>https://worldof.brine.dev/#post?s=the_frost_spire-part1</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=the_frost_spire-part1</guid>
-    <description>The Arson Crew find themselves in the middle of an old fey tale. "The Ice Prince" is legend. A prince lives who travels the seas in a castle of ice; his wives feasting on children who misbehave.</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/frost_spire/image.png" alt="thumb">The Arson Crew™ find themselves in the middle of an old fey tale. The Ice Prince is legend. A prince lives who travels the seas in a castle of ice; his wives feasting on children who misbehave.</p>
+<p><strong>The Frost Spire</strong></p>
+<p>Long ago, when the world was new an elf king was banished and tossed into the sea. His hatred was so great, and so cold, that it froze the water into a spire of ice and he was cursed to drift forever, bringing winter to the world.</p>
+<p><em>But sometimes, he hungers for the blood of bad children...</em></p>
+<p><a href="https://swordfishislands.itch.io/the-frost-spire">The Frost Spire</a> by Jacob Hurst</p>
+<p><strong>World of Brine</strong> is an <em>actual play</em>, rpg, podcast, using the <a href="https://casadeocio.itch.io/1420-bnb">1420</a> ruleset.</p>
+<h3>Cast</h3>
+<ul>
+<li><strong>Cool Shade Beneath Midday Sun (Shade)</strong> - Stealthy, Expert Survivalist, Perceptive</li>
+<li><strong>The Fox</strong> - Deadly, Stealthy, Perceptive, Allusive</li>
+<li><strong>The Fighter</strong> - Tough, Deadly, Fighter</li>
+<li><strong>Brine</strong> - your <em>friendly</em> Game Maestro</li>
+</ul>
+<p><audio controls src="https://archive.org/download/the_frost_spire-part3/the_frost_spire-part1.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/the_frost_spire-part3/the_frost_spire-part1.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sun, 22 May 2022 00:04:20 GMT</pubDate>
     <itunes:image href="https://worldof.brine.dev/assets/images/frost_spire/image.png" />
@@ -195,7 +433,20 @@
     <title>S1E24 Shot Through The Heart And You're To Blame</title>
     <link>https://worldof.brine.dev/#post?s=s1e24-shot_through_the_heart_and_youre_to_blame</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=s1e24-shot_through_the_heart_and_youre_to_blame</guid>
-    <description>**THE SEASON 1 FINALE IS HERE!** `No spoilers` but Death returns... good luck, crew!</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/season1/image.png" alt="thumb"><strong>THE SEASON 1 FINALE IS HERE!</strong> <code>No spoilers</code> but Death returns... good luck, crew!</p>
+<p><strong>World of Brine</strong> is an <em>actual play</em>, rpg, podcast, using the <a href="http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf">World of Dungeons (WoDu)</a> ruleset.</p>
+<break>
+
+<h3>Cast</h3>
+<ul>
+<li><strong>Yulia</strong> - human cleric</li>
+<li><strong>Gorath</strong> - orc fighter</li>
+<li><strong>McMuffin</strong> - human reluctant sailor</li>
+<li><strong>Brine</strong> - your <em>friendly</em> GM</li>
+</ul>
+<p><audio controls src="https://archive.org/download/s1e9-cloud_city/s1e24-shot_through_the_heart_and_youre_to_blame.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e24-shot_through_the_heart_and_youre_to_blame.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sun, 13 Dec 2020 00:04:20 GMT</pubDate>
     <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
@@ -204,7 +455,20 @@
     <title>S1E23 Eat Your Heart Out</title>
     <link>https://worldof.brine.dev/#post?s=s1e23-eat_your_heart_out</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=s1e23-eat_your_heart_out</guid>
-    <description>Are three McMuffins better than one? We find out in this episode! Also, _what's with the bowl of fish?_ Yulia meets The Lady of Light and gets the answers to her heart's desires.</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/season1/image.png" alt="thumb">Are three McMuffins better than one? We find out in this episode! Also, <em>what&#39;s with the bowl of fish?</em> Yulia meets The Lady of Light and gets the answers to her heart&#39;s desires.</p>
+<p><strong>World of Brine</strong> is an <em>actual play</em>, rpg, podcast, using the <a href="http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf">World of Dungeons (WoDu)</a> ruleset.</p>
+<break>
+
+<h3>Cast</h3>
+<ul>
+<li><strong>Yulia</strong> - human cleric</li>
+<li><strong>Gorath</strong> - orc fighter</li>
+<li><strong>McMuffin</strong> - human reluctant sailor</li>
+<li><strong>Brine</strong> - your <em>friendly</em> GM</li>
+</ul>
+<p><audio controls src="https://archive.org/download/s1e9-cloud_city/s1e23-eat_your_heart_out.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e23-eat_your_heart_out.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sun, 06 Dec 2020 00:04:20 GMT</pubDate>
     <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
@@ -213,7 +477,21 @@
     <title>S1E22 Meddling Kids</title>
     <link>https://worldof.brine.dev/#post?s=s1e22-meddling-kids</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=s1e22-meddling-kids</guid>
-    <description>The Scooby crew break into **The Temple of the Lady of Light**. McMuffin concocts a _cunning plan_ to dress up as delivery men, while Yulia battles an evil broom closet!</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/season1/image.png" alt="thumb">The Scooby crew break into <strong>The Temple of the Lady of Light</strong>. McMuffin concocts a <em>cunning plan</em> to dress up as delivery men, while Yulia battles an evil broom closet!</p>
+<p><em>Sidebar: we tweaked the audio in this episode... should be a bit better :shrug:</em></p>
+<p><strong>World of Brine</strong> is an <em>actual play</em>, rpg, podcast, using the <a href="http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf">World of Dungeons (WoDu)</a> ruleset.</p>
+<break>
+
+<h3>Cast</h3>
+<ul>
+<li><strong>Yulia</strong> - human cleric</li>
+<li><strong>Gorath</strong> - orc fighter</li>
+<li><strong>McMuffin</strong> - human reluctant sailor</li>
+<li><strong>Brine</strong> - your <em>friendly</em> GM</li>
+</ul>
+<p><audio controls src="https://archive.org/download/s1e9-cloud_city/s1e22-meddling_kids.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e22-meddling_kids.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sun, 22 Nov 2020 00:04:20 GMT</pubDate>
     <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
@@ -222,7 +500,21 @@
     <title>S1E21 Let Sleeping Salt Circles Lie</title>
     <link>https://worldof.brine.dev/#post?s=s1e21-let_sleeping_salt_circles_lie</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=s1e21-let_sleeping_salt_circles_lie</guid>
-    <description>Gorath and Yulia walk into a mirror... but are instead whisked away by a rift in time. They meet a nice man inside a salt circle... nothing to see here.</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/season1/image.png" alt="thumb">Gorath and Yulia walk into a mirror... but are instead whisked away by a rift in time. They meet a nice man inside a salt circle... nothing to see here.</p>
+<p>This episode was part side quest; part DLT (McMuffin&#39;s aunt) origin story; and part one-shot via <a href="http://www.lotfp.com/RPG/products/tower-of-the-stargazer">LotFP&#39;s Tower of the Stargazer</a>.</p>
+<p><strong>World of Brine</strong> is an <em>actual play</em>, rpg, podcast, using the <a href="http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf">World of Dungeons (WoDu)</a> ruleset.</p>
+<break>
+
+<h3>Cast</h3>
+<ul>
+<li><strong>Yulia</strong> - human cleric</li>
+<li><strong>Gorath</strong> - orc fighter</li>
+<li><strong>McMuffin</strong> - human reluctant sailor</li>
+<li><strong>Brine</strong> - your <em>friendly</em> GM</li>
+</ul>
+<p><audio controls src="https://archive.org/download/s1e9-cloud_city/s1e21-let_sleeping_salt_circles_lie.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e21-let_sleeping_salt_circles_lie.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sun, 15 Nov 2020 00:04:20 GMT</pubDate>
     <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
@@ -231,7 +523,23 @@
     <title>S1E20 Burning Down the House</title>
     <link>https://worldof.brine.dev/#post?s=s1e20-burning_down_the_house</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=s1e20-burning_down_the_house</guid>
-    <description>Watch out, you might get what you're after; cool Birdy, that lighter's getting lighter; this voodoo... looks a lot like me</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/season1/image.png" alt="thumb">Watch out, you might get what you&#39;re after<br>
+cool Birdy, that lighter&#39;s getting lighter<br>
+this voodoo... looks a lot like me<br>
+burning down the house</p>
+<p><strong>World of Brine</strong> is an <em>actual play</em>, rpg, podcast, using the <a href="http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf">World of Dungeons (WoDu)</a> ruleset.</p>
+<break>
+
+<h3>Cast</h3>
+<ul>
+<li><strong>Yulia</strong> - human cleric</li>
+<li><strong>Gorath</strong> - orc fighter</li>
+<li><strong>McMuffin</strong> - human reluctant sailor</li>
+<li><strong>Brine</strong> - your <em>friendly</em> GM</li>
+</ul>
+<p><audio controls src="https://archive.org/download/s1e9-cloud_city/s1e19-closet_full_of_skeletons.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e19-closet_full_of_skeletons.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sun, 01 Nov 2020 00:04:20 GMT</pubDate>
     <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
@@ -240,7 +548,20 @@
     <title>S1E19 Closet Full of Skeletons</title>
     <link>https://worldof.brine.dev/#post?s=s1e19-closet_full_of_skeletons</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=s1e19-closet_full_of_skeletons</guid>
-    <description>We all have skeletons in our closets...</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/season1/image.png" alt="thumb">We all have skeletons in our closets...</p>
+<p><strong>World of Brine</strong> is an <em>actual play</em>, rpg, podcast, using the <a href="http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf">World of Dungeons (WoDu)</a> ruleset.</p>
+<break>
+
+<h3>Cast</h3>
+<ul>
+<li><strong>Yulia</strong> - human cleric</li>
+<li><strong>Gorath</strong> - orc fighter</li>
+<li><strong>McMuffin</strong> - human reluctant sailor</li>
+<li><strong>Brine</strong> - your <em>friendly</em> GM</li>
+</ul>
+<p><audio controls src="https://archive.org/download/s1e9-cloud_city/s1e19-closet_full_of_skeletons.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e19-closet_full_of_skeletons.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sun, 18 Oct 2020 00:04:20 GMT</pubDate>
     <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
@@ -249,7 +570,20 @@
     <title>S1E18 Attack of the Color Guard</title>
     <link>https://worldof.brine.dev/#post?s=s1e18-attack_of_the_color_guard</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=s1e18-attack_of_the_color_guard</guid>
-    <description>"This color guard has teeth! The Crew face off with _Louie Bluie_ and his colorful friends... honestly the cat statue may have given them more of a problem"</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/season1/image.png" alt="thumb"><strong>This color guard has teeth!</strong> The Crew face off with <em>Louie Bluie</em> and his colorful friends... <em>honestly the cat statue may have given them more of a problem</em> 🤔</p>
+<p><strong>World of Brine</strong> is an <em>actual play</em>, rpg, podcast, using the <a href="http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf">World of Dungeons (WoDu)</a> ruleset.</p>
+<break>
+
+<h3>Cast</h3>
+<ul>
+<li><strong>Yulia</strong> - human cleric</li>
+<li><strong>Gorath</strong> - orc fighter</li>
+<li><strong>McMuffin</strong> - human reluctant sailor</li>
+<li><strong>Brine</strong> - your <em>friendly</em> GM</li>
+</ul>
+<p><audio controls src="https://archive.org/download/s1e9-cloud_city/s1e18-attack_of_the_color_guard.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e18-attack_of_the_color_guard.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sun, 11 Oct 2020 00:04:20 GMT</pubDate>
     <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
@@ -258,7 +592,20 @@
     <title>S1E17 Never Trust a Cat Statue</title>
     <link>https://worldof.brine.dev/#post?s=s1e17-never_trust_a_cat_statue</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=s1e17-never_trust_a_cat_statue</guid>
-    <description>The crew execute their _cunning plan_ and snoop around the **The Temple of the Lady of Light**. And they would have gotten away with it too _if it wasn't for that pesky cat statue_.</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/season1/image.png" alt="thumb">The crew execute their <em>cunning plan</em> and snoop around the <strong>The Temple of the Lady of Light</strong>. And they would have gotten away with it too <em>if it wasn&#39;t for that pesky cat statue</em>.</p>
+<p><strong>World of Brine</strong> is an <em>actual play</em>, rpg, podcast, using the <a href="http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf">World of Dungeons (WoDu)</a> ruleset.</p>
+<break>
+
+<h3>Cast</h3>
+<ul>
+<li><strong>Yulia</strong> - human cleric</li>
+<li><strong>Gorath</strong> - orc fighter</li>
+<li><strong>McMuffin</strong> - human reluctant sailor</li>
+<li><strong>Brine</strong> - your <em>friendly</em> GM</li>
+</ul>
+<p><audio controls src="https://archive.org/download/s1e9-cloud_city/s1e17-never_trust_a_cat_statue.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e17-never_trust_a_cat_statue.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sun, 04 Oct 2020 00:04:20 GMT</pubDate>
     <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
@@ -267,7 +614,20 @@
     <title>S1E16 Chillin' with the Tanpire</title>
     <link>https://worldof.brine.dev/#post?s=s1e16-chillin_with_the_tanpire</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=s1e16-chillin_with_the_tanpire</guid>
-    <description>Our heroes navigate the mirror plane back to Malik Maxwell's (aka _The Tanpire). They rest up; have some funky dreams; do a little snooping; ask _all_ the questions; and formulate a plan!</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/season1/image.png" alt="thumb">Our heroes navigate the mirror plane back to Malik Maxwell&#39;s (aka _The Tanpire). They rest up; have some funky dreams; do a little snooping; ask <em>all</em> the questions; and formulate a plan!</p>
+<p><strong>World of Brine</strong> is an <em>actual play</em>, rpg, podcast, using the <a href="http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf">World of Dungeons (WoDu)</a> ruleset.</p>
+<break>
+
+<h3>Cast</h3>
+<ul>
+<li><strong>Yulia</strong> - human cleric</li>
+<li><strong>Gorath</strong> - orc fighter</li>
+<li><strong>McMuffin</strong> - human reluctant sailor</li>
+<li><strong>Brine</strong> - your <em>friendly</em> GM</li>
+</ul>
+<p><audio controls src="https://archive.org/download/s1e9-cloud_city/s1e16-chillin_with_the_tanpire.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e16-chillin_with_the_tanpire.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sun, 30 Aug 2020 00:04:20 GMT</pubDate>
     <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
@@ -276,7 +636,20 @@
     <title>S1E15 Little Orc's Room</title>
     <link>https://worldof.brine.dev/#post?s=s1e15-little_orcs_room</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=s1e15-little_orcs_room</guid>
-    <description>Gorath visits the _little orc's room_ and then he crew travels through the mirror plane, looking for Malik's house. They meet some shiny ravens...</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/season1/image.png" alt="thumb">Gorath visits the <em>little orc&#39;s room</em> and then he crew travels through the mirror plane, looking for Malik&#39;s house. They meet some shiny ravens...</p>
+<p><strong>World of Brine</strong> is an <em>actual play</em>, rpg, podcast, using the <a href="http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf">World of Dungeons (WoDu)</a> ruleset.</p>
+<break>
+
+<h3>Cast</h3>
+<ul>
+<li><strong>Yulia</strong> - human cleric</li>
+<li><strong>Gorath</strong> - orc fighter</li>
+<li><strong>McMuffin</strong> - human reluctant sailor</li>
+<li><strong>Brine</strong> - your <em>friendly</em> GM</li>
+</ul>
+<p><audio controls src="https://archive.org/download/s1e9-cloud_city/s1e15-little_orcs_room.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e15-little_orcs_room.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sun, 16 Aug 2020 00:04:20 GMT</pubDate>
     <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
@@ -285,7 +658,20 @@
     <title>S1E14 The Mirror Plane</title>
     <link>https://worldof.brine.dev/#post?s=s1e14-the_mirror_plane</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=s1e14-the_mirror_plane</guid>
-    <description>Welcome to the _Mirror Plane_! The crew meet a shiny spider...</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/season1/image.png" alt="thumb">Welcome to the <em>Mirror Plane</em>! The crew meet a shiny spider...</p>
+<p><strong>World of Brine</strong> is an <em>actual play</em>, rpg, podcast, using the <a href="http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf">World of Dungeons (WoDu)</a> ruleset.</p>
+<break>
+
+<h3>Cast</h3>
+<ul>
+<li><strong>Yulia</strong> - human cleric</li>
+<li><strong>Gorath</strong> - orc fighter</li>
+<li><strong>McMuffin</strong> - human reluctant sailor</li>
+<li><strong>Brine</strong> - your <em>friendly</em> GM</li>
+</ul>
+<p><audio controls src="https://archive.org/download/s1e9-cloud_city/s1e14-the_mirror_plane.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e14-the_mirror_plane.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sun, 09 Aug 2020 00:04:20 GMT</pubDate>
     <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
@@ -294,7 +680,20 @@
     <title>S1E13 The Return of Naven Mag</title>
     <link>https://worldof.brine.dev/#post?s=s1e13-the_return_of_naven_mag</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=s1e13-the_return_of_naven_mag</guid>
-    <description>Naven Mag returns! The crew find themselves back in _The Time Wizard's_ tower. More delicious tea; more _complicated_. They also fine out that _they can mirrorwalk_!</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/season1/image.png" alt="thumb">Naven Mag returns! The crew find themselves back in <em>The Time Wizard&#39;s</em> tower. More delicious tea; more <em>complicated</em>. They also fine out that <em>they can mirrorwalk</em>!</p>
+<p><strong>World of Brine</strong> is an <em>actual play</em>, rpg, podcast, using the <a href="http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf">World of Dungeons (WoDu)</a> ruleset.</p>
+<break>
+
+<h3>Cast</h3>
+<ul>
+<li><strong>Yulia</strong> - human cleric</li>
+<li><strong>Gorath</strong> - orc fighter</li>
+<li><strong>McMuffin</strong> - human reluctant sailor</li>
+<li><strong>Brine</strong> - your <em>friendly</em> GM</li>
+</ul>
+<p><audio controls src="https://archive.org/download/s1e9-cloud_city/s1e13-the_return_of_naven_mag.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e13-the_return_of_naven_mag.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sun, 02 Aug 2020 00:04:20 GMT</pubDate>
     <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
@@ -303,7 +702,20 @@
     <title>S1E12 Black Dog</title>
     <link>https://worldof.brine.dev/#post?s=s1e12-black_dog</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=s1e12-black_dog</guid>
-    <description>Malik and the crew take on a **Black Dog**... then go for a swim in the **Infinity Fountain**.</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/season1/image.png" alt="thumb">Malik and the crew take on a <strong>Black Dog</strong>... then go for a swim in the <strong>Infinity Fountain</strong>.</p>
+<p><strong>World of Brine</strong> is an <em>actual play</em>, rpg, podcast, using the <a href="http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf">World of Dungeons (WoDu)</a> ruleset.</p>
+<break>
+
+<h3>Cast</h3>
+<ul>
+<li><strong>Yulia</strong> - human cleric</li>
+<li><strong>Gorath</strong> - orc fighter</li>
+<li><strong>McMuffin</strong> - human reluctant sailor</li>
+<li><strong>Brine</strong> - your <em>friendly</em> GM</li>
+</ul>
+<p><audio controls src="https://archive.org/download/s1e9-cloud_city/s1e12-black_dog.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e12-black_dog.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sun, 26 Jul 2020 00:04:20 GMT</pubDate>
     <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
@@ -312,7 +724,20 @@
     <title>S1E11 Malik Maxwell</title>
     <link>https://worldof.brine.dev/#post?s=s1e11-malik_maxwell</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=s1e11-malik_maxwell</guid>
-    <description>The crew visit the home of Malik Maxwell; noted, local business man and borrower of magic books and expensive booze collector. And they tell him _every. thing.</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/season1/image.png" alt="thumb">The crew visit the home of Malik Maxwell: noted, local business man and borrower of magic books and expensive booze collector. And they tell him <em>every. thing.</em>.</p>
+<p><strong>World of Brine</strong> is an <em>actual play</em>, rpg, podcast, using the <a href="http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf">World of Dungeons (WoDu)</a> ruleset.</p>
+<break>
+
+<h3>Cast</h3>
+<ul>
+<li><strong>Yulia</strong> - human cleric</li>
+<li><strong>Gorath</strong> - orc fighter</li>
+<li><strong>McMuffin</strong> - human reluctant sailor</li>
+<li><strong>Brine</strong> - your <em>friendly</em> GM</li>
+</ul>
+<p><audio controls src="https://archive.org/download/s1e9-cloud_city/s1e11-malik_maxwell.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e11-malik_maxwell.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sun, 14 Jun 2020 00:04:20 GMT</pubDate>
     <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
@@ -321,7 +746,20 @@
     <title>S1E10 Sister Malora - Lady of Light High Priestess</title>
     <link>https://worldof.brine.dev/#post?s=s1e10-sister_malora-lady_of_light_high_priestess</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=s1e10-sister_malora-lady_of_light_high_priestess</guid>
-    <description>In this episode we learn about orc mating rituals when Gorath presents a dead dog to Yulia :shrug:. They meet with Sister Malora, the Hight Priestess of the Lady of Light. And they tell here _every. thing._</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/season1/image.png" alt="thumb">In this episode we learn about orc mating rituals when Gorath presents a dead dog to Yulia :shrug:. They meet with Sister Malora, the Hight Priestess of the Lady of Light. And they tell here <em>every. thing.</em></p>
+<p><strong>World of Brine</strong> is an <em>actual play</em>, rpg, podcast, using the <a href="http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf">World of Dungeons (WoDu)</a> ruleset.</p>
+<break>
+
+<h3>Cast</h3>
+<ul>
+<li><strong>Yulia</strong> - human cleric</li>
+<li><strong>Gorath</strong> - orc fighter</li>
+<li><strong>McMuffin</strong> - human reluctant sailor</li>
+<li><strong>Brine</strong> - your <em>friendly</em> GM</li>
+</ul>
+<p><audio controls src="https://archive.org/download/s1e9-cloud_city/s1e10-sister_malora-lady_of_light_high_priestess.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e10-sister_malora-lady_of_light_high_priestess.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sun, 24 May 2020 00:04:20 GMT</pubDate>
     <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
@@ -330,7 +768,20 @@
     <title>S1E9 Cloud City</title>
     <link>https://worldof.brine.dev/#post?s=s1e9-cloud_city</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=s1e9-cloud_city</guid>
-    <description>The crew lands in Cloud City! Gorath is being followed by a Black Dog; they run into _Little Baby Drekel_; and they learn about a murder mystery...</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/season1/image.png" alt="thumb">The crew lands in Cloud City! Gorath is being followed by a Black Dog; they run into <em>Little Baby Drekel</em>; and they learn about a murder mystery...</p>
+<p><strong>World of Brine</strong> is an <em>actual play</em>, rpg, podcast, using the <a href="http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf">World of Dungeons (WoDu)</a> ruleset.</p>
+<break>
+
+<h3>Cast</h3>
+<ul>
+<li><strong>Yulia</strong> - human cleric</li>
+<li><strong>Gorath</strong> - orc fighter</li>
+<li><strong>McMuffin</strong> - human reluctant sailor</li>
+<li><strong>Brine</strong> - your <em>friendly</em> GM</li>
+</ul>
+<p><audio controls src="https://archive.org/download/s1e9-cloud_city/s1e9-cloud_city.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e9-cloud_city.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sun, 10 May 2020 00:04:20 GMT</pubDate>
     <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
@@ -339,7 +790,21 @@
     <title>S1E8 Is That a Musket In Your Pocket?</title>
     <link>https://worldof.brine.dev/#post?s=s1e8-is_that_a_musket_in_your_pocket</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=s1e8-is_that_a_musket_in_your_pocket</guid>
-    <description>The Toucan crew is back on the board with Santo but but make an emergency landing. Not for more beer (though :thinking:) but because of a storm. They build a fire right by an Owl Bear nest and McMuffin realizes _he has a musket_ and he's not afraid to use it!</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/season1/image.png" alt="thumb">The Toucan crew is back on the board with Santo but but make an emergency landing. Not for more beer (though :thinking:) but because of a storm. They build a fire right by an Owl Bear nest and McMuffin realizes <em>he has a musket</em> and he&#39;s not afraid to use it!</p>
+<p><strong>World of Brine</strong> is an <em>actual play</em>,
+rpg, podcast, using the <a href="http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf">World of Dungeons (WoDu)</a> ruleset.</p>
+<break>
+
+<h3>Cast</h3>
+<ul>
+<li><strong>Yulia</strong> - human cleric</li>
+<li><strong>Gorath</strong> - orc fighter</li>
+<li><strong>McMuffin</strong> - human reluctant sailor</li>
+<li><strong>Brine</strong> - your <em>friendly</em> GM</li>
+</ul>
+<p><audio controls src="https://archive.org/download/s1e9-cloud_city/s1e8-is_that_a_musket_in_your_pocket.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e8-is_that_a_musket_in_your_pocket.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sun, 03 May 2020 00:04:20 GMT</pubDate>
     <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
@@ -348,7 +813,21 @@
     <title>S1E6 A Debt for the Dead - Part 1</title>
     <link>https://worldof.brine.dev/#post?s=s1e6-a_debt_for_the_dead_part_1</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=s1e6-a_debt_for_the_dead_part_1</guid>
-    <description>The crew fly through a stitch in time and find themselves... well... dead. We are also introduced to _Breakfast Donuts_!</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/season1/image.png" alt="thumb">The crew fly through a stitch in time and find themselves... well... dead... <em>again</em>. We are also introduced to delicious <em>Breakfast Donuts</em>!</p>
+<p>This is a one-ish shot that I wrote for the <a href="https://www.dungeoncontest.com/opdc-2020">2020 One Page Dungeon Contest</a> and slipped it into our campaign (so sneaky). It&#39;s called <a href="https://brine.dev/#post?s=one_page_dungeon_contest">a Debt for the Dead</a>. It turned out to be a ton of fun, and <em>marked</em> the entire campaign FOREVAH! Looking at it today, I can see why it wasn&#39;t well received by the judges :) I really hate doing <em>print work</em> and it shows. Still... fun stuff!</p>
+<p><strong>World of Brine</strong> is an <em>actual play</em>, rpg, podcast, using the <a href="http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf">World of Dungeons (WoDu)</a> ruleset.</p>
+<break>
+
+<h3>Cast</h3>
+<ul>
+<li><strong>Yulia</strong> - human cleric</li>
+<li><strong>Gorath</strong> - orc fighter</li>
+<li><strong>McMuffin</strong> - human reluctant sailor</li>
+<li><strong>Brine</strong> - your <em>friendly</em> GM</li>
+</ul>
+<p><audio controls src="https://archive.org/download/s1e9-cloud_city/s1e6-a_debt_for_the_dead-part_1.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e6-a_debt_for_the_dead-part_1.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sun, 19 Apr 2020 00:04:20 GMT</pubDate>
     <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
@@ -357,7 +836,20 @@
     <title>S1E5 Death and McMuffin</title>
     <link>https://worldof.brine.dev/#post?s=s1e5-death_and_mcmuffin</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=s1e5-death_and_mcmuffin</guid>
-    <description>In order to save his parents, our _reluctant sailor_, McMuffin dies and bargains with Death!</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/season1/image.png" alt="thumb">In order to save his parents, our <em>reluctant sailor</em>, McMuffin dies and bargains with Death!</p>
+<p><strong>World of Brine</strong> is an <em>actual play</em>, rpg, podcast, using the <a href="http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf">World of Dungeons (WoDu)</a> ruleset.</p>
+<break>
+
+<h3>Cast</h3>
+<ul>
+<li><strong>Yulia</strong> - human cleric</li>
+<li><strong>Gorath</strong> - orc fighter</li>
+<li><strong>McMuffin</strong> - human reluctant sailor</li>
+<li><strong>Brine</strong> - your <em>friendly</em> GM</li>
+</ul>
+<p><audio controls src="https://archive.org/download/s1e9-cloud_city/s1e5-death_and_mcmuffin.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e5-death_and_mcmuffin.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sun, 12 Apr 2020 00:04:20 GMT</pubDate>
     <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
@@ -366,7 +858,18 @@
     <title>S1E2 Hissy Fit</title>
     <link>https://worldof.brine.dev/#post?s=s1e2-hissy-fit</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=s1e2-hissy-fit</guid>
-    <description>The crew travel by balloon to McMufin's home town of ~~Hissy Fit~~ **Hsifilet**.</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/season1/image.png" alt="thumb">The crew travel by balloon to McMufin&#39;s home town of <del>Hissy Fit</del> <strong>Hsifilet</strong>.</p>
+<p><strong>World of Brine</strong> is an <em>actual play</em>, rpg, podcast, using the <a href="http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf">World of Dungeons (WoDu)</a> ruleset.</p>
+<h3>Cast</h3>
+<ul>
+<li><strong>Yulia</strong> - human cleric</li>
+<li><strong>Gorath</strong> - orc fighter</li>
+<li><strong>McMuffin</strong> - human reluctant sailor</li>
+<li><strong>Brine</strong> - your <em>friendly</em> GM</li>
+</ul>
+<p><audio controls src="https://archive.org/download/s1e9-cloud_city/s1e2-hissy_fit.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e2-hissy_fit.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sun, 15 Mar 2020 00:04:20 GMT</pubDate>
     <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
@@ -375,7 +878,18 @@
     <title>S1E1 A Balloon for Gorath</title>
     <link>https://worldof.brine.dev/#post?s=s1e1-a_balloon_for_gorath</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=s1e1-a_balloon_for_gorath</guid>
-    <description>Wait... McMuffin has a bird? In this first episode of **Season 1**, we meet McMuffin's pet toucan, **Birdie**; which has _somehow_ always been sitting on his shoulder? Whatever. We are also introduced to **Santo Regulus Dumont**; a professional drinker and aeronaut hobbyist.</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/season1/image.png" alt="thumb">In this first episode of <strong>Season 1</strong>, we meet McMuffin&#39;s pet toucan, <strong>Birdie</strong>; which has <em>somehow</em> always been sitting on his shoulder? Whatever. We are also introduced to <strong>Santo Regulus Dumont</strong>; a professional drinker and aeronaut hobbyist.</p>
+<p><strong>World of Brine</strong> is an <em>actual play</em>, rpg, podcast, using the <a href="http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf">World of Dungeons (WoDu)</a> ruleset.</p>
+<h3>Cast</h3>
+<ul>
+<li><strong>Yulia</strong> - human cleric</li>
+<li><strong>Gorath</strong> - orc fighter</li>
+<li><strong>McMuffin</strong> - human reluctant sailor</li>
+<li><strong>Brine</strong> - your <em>friendly</em> GM</li>
+</ul>
+<p><audio controls src="https://archive.org/download/s1e9-cloud_city/s1e1-a_balloon_for_gorath.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/s1e9-cloud_city/s1e1-a_balloon_for_gorath.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sun, 08 Mar 2020 00:04:20 GMT</pubDate>
     <itunes:image href="https://worldof.brine.dev/assets/images/season1/image.png" />
@@ -384,7 +898,18 @@
     <title>S0E4 Tower of the Time Wizard</title>
     <link>https://worldof.brine.dev/#post?s=s0e4-tower_of_the_time_wizard</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=s0e4-tower_of_the_time_wizard</guid>
-    <description>Today on GorathCast...</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/season0/image.jpg" alt="thumb">Today on GorathCast...</p>
+<p>Season 0 ends with the party selling some loot and makes the transition to... <em>season 1</em>!</p>
+<h3>Cast</h3>
+<ul>
+<li><strong>Yulia</strong> - human cleric</li>
+<li><strong>Gorath</strong> - orc fighter</li>
+<li><strong>McMuffin</strong> - human reluctant sailor</li>
+<li><strong>Brine</strong> - your <em>friendly</em> GM</li>
+</ul>
+<p><audio controls src="https://archive.org/download/s0e2-tower_of_the_time_wizard/s0e4-tower_of_the_time_wizard.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/s0e2-tower_of_the_time_wizard/s0e4-tower_of_the_time_wizard.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sun, 23 Feb 2020 00:04:20 GMT</pubDate>
     <itunes:image href="https://worldof.brine.dev/assets/images/season0/image.jpg" />
@@ -393,7 +918,17 @@
     <title>S0E3 Tower of the Time Wizard</title>
     <link>https://worldof.brine.dev/#post?s=s0e3-tower_of_the_time_wizard</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=s0e3-tower_of_the_time_wizard</guid>
-    <description>Death becomes us! The 3rd floor puzzles the party and the 4th... well... it's complected.</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/season0/image.jpg" alt="thumb">Death becomes us! The 3rd floor puzzles the party and the 4th... well... it&#39;s complected.</p>
+<h3>Cast</h3>
+<ul>
+<li><strong>Yulia</strong> - human cleric</li>
+<li><strong>Gorath</strong> - orc fighter</li>
+<li><strong>McMuffin</strong> - human reluctant sailor</li>
+<li><strong>Brine</strong> - your <em>friendly</em> GM</li>
+</ul>
+<p><audio controls src="https://archive.org/download/s0e2-tower_of_the_time_wizard/s0e3-tower_of_the_time_wizard.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/s0e2-tower_of_the_time_wizard/s0e3-tower_of_the_time_wizard.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sun, 09 Feb 2020 00:04:20 GMT</pubDate>
     <itunes:image href="https://worldof.brine.dev/assets/images/season0/image.jpg" />
@@ -402,7 +937,17 @@
     <title>S0E2 Tower of the Time Wizard</title>
     <link>https://worldof.brine.dev/#post?s=s0e2-tower_of_the_time_wizard</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=s0e2-tower_of_the_time_wizard</guid>
-    <description>The players make it to the 2nd floor of the tower and...</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/season0/image.jpg" alt="thumb">The players make it to the 2nd floor of the tower and <strong>[SPOILER]</strong> <em>go ham</em> on... well... the A-Team and make delicious <em>slumgullion</em>.</p>
+<h3>Cast</h3>
+<ul>
+<li><strong>Yulia</strong> - human cleric</li>
+<li><strong>Gorath</strong> - orc fighter</li>
+<li><strong>McMuffin</strong> - human reluctant sailor</li>
+<li><strong>Brine</strong> - your <em>friendly</em> GM</li>
+</ul>
+<p><audio controls src="https://archive.org/download/s0e2-tower_of_the_time_wizard/s0e2-tower_of_the_time_wizard.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/s0e2-tower_of_the_time_wizard/s0e2-tower_of_the_time_wizard.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sun, 26 Jan 2020 00:04:20 GMT</pubDate>
     <itunes:image href="https://worldof.brine.dev/assets/images/season0/image.jpg" />
@@ -411,7 +956,19 @@
     <title>S0E1 Tower of the Time Wizard</title>
     <link>https://worldof.brine.dev/#post?s=s0e1-tower_of_the_time_wizard</link>
     <guid isPermaLink="true">https://worldof.brine.dev/#post?s=s0e1-tower_of_the_time_wizard</guid>
-    <description>This was the very first session of what was _supposed to be_ just a oneshot... but would become a full campaign.</description>
+    <description></description>
+    <content:encoded><![CDATA[<p><img src="https://worldof.brine.dev/assets/images/season0/image.jpg" alt="thumb">This was the very first session of what was <em>supposed to be</em> just a oneshot... but would become a full campaign. <a href="https://worldof.brine.dev/assets/images/tower_of_the_time_wizard.pdf">Tower of the Time Wizard</a> is a fun, one-page, dungeon, written by Andrew Harshman. In this 3 part podcast, we run Andrew&#39;s one-pager using the <a href="http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf">World of Dungeons</a> ruleset.</p>
+<p>This was my first time running <em>WoDu</em>, and so we take a good amount of time talking about characters and rules.</p>
+<p>Also, apologies for the excessive echo in this session... we fixed this in subsequent sessions. WOOPS!</p>
+<h3>Cast</h3>
+<ul>
+<li><strong>Yulia</strong> - human cleric</li>
+<li><strong>Gorath</strong> - orc fighter</li>
+<li><strong>McMuffin</strong> - human reluctant sailor</li>
+<li><strong>Brine</strong> - your <em>friendly</em> GM</li>
+</ul>
+<p><audio controls src="https://archive.org/download/s0e2-tower_of_the_time_wizard/s0e1-tower_of_the_time_wizard.mp3"></audio></p>
+]]></content:encoded>
     <enclosure url="https://archive.org/download/s0e2-tower_of_the_time_wizard/s0e1-tower_of_the_time_wizard.mp3" type="audio/mpeg" length="0" />
     <pubDate>Sun, 19 Jan 2020 00:04:20 GMT</pubDate>
     <itunes:image href="https://worldof.brine.dev/assets/images/season0/image.jpg" />

@@ -6,7 +6,7 @@ description: Malik and the crew take on a **Black Dog**... then go for a swim in
 image: https://worldof.brine.dev/assets/images/season1/image.png
 ---
 
-![thumb](assets/images/season1/image.png)Malik and the crew take on a **Black Dog**... then go for a swim in the **Infinity Fountain**.
+![thumb](https://worldof.brine.dev/assets/images/season1/image.png)Malik and the crew take on a **Black Dog**... then go for a swim in the **Infinity Fountain**.
 
 **World of Brine** is an _actual play_, rpg, podcast, using the [World of Dungeons (WoDu)](http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf) ruleset.
 

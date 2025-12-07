@@ -6,11 +6,9 @@ description: Today on GorathCast...
 image: https://worldof.brine.dev/assets/images/season0/image.jpg
 ---
 
-![thumb](assets/images/season0/image.jpg)Today on GorathCast...
+![thumb](https://worldof.brine.dev/assets/images/season0/image.jpg)Today on GorathCast...
 
 Season 0 ends with the party selling some loot and makes the transition to... _season 1_!
-
-<break>
 
 ### Cast
 - **Yulia** - human cleric

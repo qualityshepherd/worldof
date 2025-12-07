@@ -6,7 +6,7 @@ description: "This color guard has teeth! The Crew face off with _Louie Bluie_ a
 image: https://worldof.brine.dev/assets/images/season1/image.png
 ---
 
-![thumb](assets/images/season1/image.png)**This color guard has teeth!** The Crew face off with _Louie Bluie_ and his colorful friends... _honestly the cat statue may have given them more of a problem_ 🤔
+![thumb](https://worldof.brine.dev/assets/images/season1/image.png)**This color guard has teeth!** The Crew face off with _Louie Bluie_ and his colorful friends... _honestly the cat statue may have given them more of a problem_ 🤔
 
 **World of Brine** is an _actual play_, rpg, podcast, using the [World of Dungeons (WoDu)](http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf) ruleset.
 

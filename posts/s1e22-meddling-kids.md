@@ -6,7 +6,7 @@ description: The Scooby crew break into **The Temple of the Lady of Light**. McM
 image: https://worldof.brine.dev/assets/images/season1/image.png
 ---
 
-![thumb](assets/images/season1/image.png)The Scooby crew break into **The Temple of the Lady of Light**. McMuffin concocts a _cunning plan_ to dress up as delivery men, while Yulia battles an evil broom closet!
+![thumb](https://worldof.brine.dev/assets/images/season1/image.png)The Scooby crew break into **The Temple of the Lady of Light**. McMuffin concocts a _cunning plan_ to dress up as delivery men, while Yulia battles an evil broom closet!
 
 _Sidebar: we tweaked the audio in this episode... should be a bit better :shrug:_
 

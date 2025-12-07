@@ -6,9 +6,7 @@ description: The players make it to the 2nd floor of the tower and...
 image: https://worldof.brine.dev/assets/images/season0/image.jpg
 ---
 
-![thumb](assets/images/season0/image.jpg)The players make it to the 2nd floor of the tower and **[SPOILER]** _go ham_ on... well... the A-Team and make delicious _slumgullion_.
-
-<break>
+![thumb](https://worldof.brine.dev/assets/images/season0/image.jpg)The players make it to the 2nd floor of the tower and **[SPOILER]** _go ham_ on... well... the A-Team and make delicious _slumgullion_.
 
 ### Cast
 - **Yulia** - human cleric
