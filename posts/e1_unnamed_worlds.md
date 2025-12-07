@@ -3,7 +3,7 @@ title: E1 Unnamed Worlds, Tarot Magic, and Conversation-First Design
 date: 2025-11-24
 image: https://worldof.brine.dev/assets/images/brine_square.jpg
 tags: podcast, wob, named, oyab
-description:
+description: This is the first episode in a new series of conversations between myself, Wightbred and whomever else. We talk about Wightbred's new zine, Unnammed Worlds; the magic system in brine's game Of Yarn and Bone; why we like narrative-first, conversation-driven ttrpgs, and a number of other rambling topics.
 ---
 
 ![thumb](assets/images/brine_square.jpg)

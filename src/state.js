@@ -83,11 +83,11 @@ const addLeadingZero = (num) => String(num).padStart(2, '0')
 
 // add leading 0 to date string...
 export function addLeadingZerosToDateString (dateString) {
-  const [year, month, day] = dateString.split('-');
+  const [year, month, day] = dateString.split('-')
   // Pad the month and day with leading zeros if necessary
-  const paddedMonth = addLeadingZero(month);
-  const paddedDay = addLeadingZero(day);
+  const paddedMonth = addLeadingZero(month)
+  const paddedDay = addLeadingZero(day)
 
   // Reassemble the date string in the format "YYYY-MM-DD"
-  return `${year}-${paddedMonth}-${paddedDay}`;
+  return `${year}-${paddedMonth}-${paddedDay}`
 }

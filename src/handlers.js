@@ -107,8 +107,8 @@ export function handleRouting () {
 
   // log path for clicky analytics
   if (window.clicky && typeof clicky.log === 'function') {
-    const virtualPath = '/' + (location.hash.replace(/^#/, '') || '');
-    clicky.log(virtualPath, document.title, 'pageview');
+    const virtualPath = '/' + (location.hash.replace(/^#/, '') || '')
+    clicky.log(virtualPath, document.title, 'pageview')
   }
 }
 
