@@ -6,7 +6,7 @@
 <channel>
   <title>World of Brine</title>
   <link>https://worldof.brine.dev</link>
-  <description>World of Brine is a ttrpg podcast of words and worlds; meandering conversations and actual play games. #oyab #named</description>
+  <description>World of Brine is a ttrpg podcast of words and worlds; meandering conversations and actual play games. #oyab #named #fkr #ttrpg #rpg</description>
   <language>en-us</language>
   <itunes:image href="https://worldof.brine.dev/assets/images/brine_wide.jpg" />
   <image>
@@ -16,7 +16,9 @@
   </image>
   <itunes:author>brine</itunes:author>
   <itunes:explicit>true</itunes:explicit>
-  <itunes:category text="Leisure" />
+  <itunes:category text="Leisure">
+    <itunes:category text="Games"/>
+  </itunes:category>
   <itunes:owner>
     <itunes:email>me@brine.dev</itunes:email>
   </itunes:owner>
