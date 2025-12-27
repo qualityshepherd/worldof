@@ -3,8 +3,7 @@ title: E3 System Bashing Matters
 date: 2025-12-27
 image: https://worldof.brine.dev/assets/images/brine_square.jpg
 tags: podcast, wob
-description: Wightbred and Brine get in the holiday spirit and wrap up 2025 by bashing systems. Coal for every stocking! But also our plea for the new year: unless you need the money, stop trying to fix D&D and instead, make cool stuff we can steal!
-
+description: Wightbred and Brine get in the holiday spirit and wrap up 2025 by bashing systems. Coal for every stocking! But also our plea for the new year - unless you need the money, stop trying to fix D&D and instead, make cool stuff we can steal!
 ---
 
 ![thumb](assets/images/brine_square.jpg)
