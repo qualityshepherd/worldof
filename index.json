@@ -1,6 +1,21 @@
 [
   {
     "meta": {
+      "title": "E4 I Won the Podcast",
+      "date": "2026-01-10",
+      "image": "https://worldof.brine.dev/assets/images/brine_square.jpg",
+      "tags": [
+        "podcast",
+        "wob"
+      ],
+      "description": "Wightbred and Brine bring in the new year by talking about why systems are awesome! They then accidentally stress this point by _systemizing_ the podcast itself. No spoilers on who won the podcast. By a lot.",
+      "slug": "e4_i_won_the_podcast"
+    },
+    "markdown": "![thumb](assets/images/brine_square.jpg)\n\nWightbred and Brine bring in the new year by talking about why systems are awesome! They then accidentally stress this point by _systemizing_ the podcast itself. No spoilers on who won the podcast. By a lot.  \n\n- [Wightbred](https://wightbred.itch.io/)\n- [Brine](https://brine.dev/)\n- [Apocalypse World](https://lumpley.itch.io/apocalypse-world)\n- [50/50](http://www.dragonlance.d20.cz/diskuze/odborne-diskuze/52204.html)\n- [Dice Exploder](https://www.diceexploder.com/)\n\n<audio controls src=\"https://archive.org/download/e4_i_won_the_podcast/e4_i_won_the_podcast.mp3\"></audio>",
+    "html": "<p><img src=\"assets/images/brine_square.jpg\" alt=\"thumb\"></p>\n<p>Wightbred and Brine bring in the new year by talking about why systems are awesome! They then accidentally stress this point by <em>systemizing</em> the podcast itself. No spoilers on who won the podcast. By a lot.  </p>\n<ul>\n<li><a href=\"https://wightbred.itch.io/\">Wightbred</a></li>\n<li><a href=\"https://brine.dev/\">Brine</a></li>\n<li><a href=\"https://lumpley.itch.io/apocalypse-world\">Apocalypse World</a></li>\n<li><a href=\"http://www.dragonlance.d20.cz/diskuze/odborne-diskuze/52204.html\">50/50</a></li>\n<li><a href=\"https://www.diceexploder.com/\">Dice Exploder</a></li>\n</ul>\n<p><audio controls src=\"https://archive.org/download/e4_i_won_the_podcast/e4_i_won_the_podcast.mp3\"></audio></p>\n"
+  },
+  {
+    "meta": {
       "title": "E3 System Bashing Matters",
       "date": "2025-12-27",
       "image": "https://worldof.brine.dev/assets/images/brine_square.jpg",
@@ -8,8 +23,8 @@
         "podcast",
         "wob"
       ],
-      "description": "Wightbred and Brine get in the holiday spirit and wrap up 2025 by bashing systems. Coal for every stocking! But also our plea for the new year: unless you need the money, stop trying to fix D&D and instead, make cool stuff we can steal!",
-      "slug": "e3_burgle_your_turts"
+      "description": "Wightbred and Brine get in the holiday spirit and wrap up 2025 by bashing systems. Coal for every stocking! But also our plea for the new year - unless you need the money, stop trying to fix D&D and instead, make cool stuff we can steal!",
+      "slug": "e3_system_bashing_matters"
     },
     "markdown": "![thumb](assets/images/brine_square.jpg)\n\nWightbred and Brine get in the holiday spirit and wrap up 2025 by bashing systems. Coal for every stocking! But also our plea for the new year: unless you need the money, stop trying to fix D&D and instead, make cool stuff we can steal!\n\n- [Wightbred](https://wightbred.itch.io/)\n- [Brine](https://brine.dev/)\n- [Group Combat](https://brine.dev/#post?s=group_combat_rules)\n- [Named](https://wightbred.itch.io/named)\n- [Of Yarn and Bone](https://brine.dev/#post?s=of_yarn_and_bone)\n- [Apocalypse World](https://lumpley.itch.io/apocalypse-world)\n- [Jotnar](https://wightbred.itch.io/skypirates-of-jotnaar)\n- [Pluribus](https://www.imdb.com/title/tt22202452/episodes/)\n\n<audio controls src=\"https://archive.org/download/e3_system_bashing_matters/e3_system_bashing_matters.mp3\"></audio>",
     "html": "<p><img src=\"assets/images/brine_square.jpg\" alt=\"thumb\"></p>\n<p>Wightbred and Brine get in the holiday spirit and wrap up 2025 by bashing systems. Coal for every stocking! But also our plea for the new year: unless you need the money, stop trying to fix D&amp;D and instead, make cool stuff we can steal!</p>\n<ul>\n<li><a href=\"https://wightbred.itch.io/\">Wightbred</a></li>\n<li><a href=\"https://brine.dev/\">Brine</a></li>\n<li><a href=\"https://brine.dev/#post?s=group_combat_rules\">Group Combat</a></li>\n<li><a href=\"https://wightbred.itch.io/named\">Named</a></li>\n<li><a href=\"https://brine.dev/#post?s=of_yarn_and_bone\">Of Yarn and Bone</a></li>\n<li><a href=\"https://lumpley.itch.io/apocalypse-world\">Apocalypse World</a></li>\n<li><a href=\"https://wightbred.itch.io/skypirates-of-jotnaar\">Jotnar</a></li>\n<li><a href=\"https://www.imdb.com/title/tt22202452/episodes/\">Pluribus</a></li>\n</ul>\n<p><audio controls src=\"https://archive.org/download/e3_system_bashing_matters/e3_system_bashing_matters.mp3\"></audio></p>\n"
